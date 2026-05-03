@@ -1,0 +1,84 @@
+# Métadonnées — ODD 3 : Bonne santé et bien-être
+# Généré automatiquement — Mémoire ANSD/DMCI 2025
+
+indicator_name: >-
+  Score composite normalisé de l'ODD 3 — Bonne santé et bien-être
+
+indicator_number: '3.1.1'
+
+national_indicator_description: >-
+  Cet indicateur représente le score composite normalisé de l'ODD 3
+  calculé à partir de 43 indicateurs internationaux disponibles
+  pour le Sénégal. Le score est normalisé dans l'intervalle [0, 1] où 1
+  correspond à la meilleure performance observée sur la période 2000-2024.
+  La méthode de normalisation appliquée est la méthode min-max (OCDE, 2008).
+
+national_geographical_coverage: Sénégal (données nationales)
+
+computation_units: Score normalisé [0 – 1]
+
+computation_calculations: >-
+  Score composite calculé par moyenne arithmétique non pondérée des scores
+  min-max normalisés des indicateurs ODD 3 disponibles pour le Sénégal.
+  Formule : C(j,t) = (1/n_j) × Σ S(i,t) pour tout i appartenant à l'ODD 3.
+  Pour les indicateurs à sens négatif (valeur haute = mauvaise performance),
+  la formule d'inversion est appliquée : S(i,t) = [max X(i) − X(i,t)] / [max X(i) − min X(i)].
+
+data_non_statistical: false
+
+language: fr
+
+un_designated_tier: '2'
+
+goal_meta_link: 'https://unstats.un.org/sdgs/metadata/?Text=&Goal=3'
+
+goal_meta_link_text: Métadonnées ODD 3 — Nations Unies
+
+actual_indicator_available: Score composite normalisé ODD 3 (Sénégal, 2000-2024)
+
+periodicity: Annuelle
+
+date_of_national_source_publication: '2024'
+
+contact_organisation: >-
+  Agence Nationale de la Statistique et de la Démographie (ANSD),
+  Division de la Méthodologie, de la Coordination et de l'Innovation (DMCI),
+  Dakar, Sénégal
+
+contact_name: Analyste Statisticien — Mémoire de fin de formation 2025
+
+source_active_1: true
+
+source_organisation_1: >-
+  OMS Global Health Observatory, Banque Mondiale WDI, ONU SDGAPI, PNUD HDR
+
+source_periodicity_1: Annuelle
+
+source_url_1: 'https://unstats.un.org/sdgs/indicators/database/'
+
+source_url_text_1: Base de données ODD — Nations Unies
+
+national_target: >-
+  Assurer une vie en bonne santé et promouvoir le bien-être de tous à tout âge d'ici 2030.
+
+national_target_id: '3.SN'
+
+status: >-
+  Vert — En bonne voie (score projeté ≥ 0,75 en 2030)
+
+score_2024: 0.791
+
+projection_2030: 0.797
+
+n_indicateurs: 43
+
+published: true
+
+reporting_status: complete
+
+tags:
+  - ODD 3
+  - Sénégal
+  - ANSD
+  - Score composite
+  - Agenda 2030
