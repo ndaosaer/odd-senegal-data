@@ -1,5 +1,5 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
-#1-1-1,notstarted,International Labour Organization (ILO),,,,,line
+#1-1-1,complete,International Labour Organization (ILO),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #1-2-1,notstarted,World Bank,,,,,line
 #1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
 #1-3-1,notstarted,World Bank (WB),,,,,line
@@ -13,7 +13,7 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #1-a-1,notstarted,OECD,,,,,line
 #1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
 #1-b-1,notstarted,"United Nations Children&#x2019;s Fund (UNICEF), Save the Children",,,,,line
-#10-1-1,notstarted,World Bank (WB),,,,,line
+#10-1-1,complete,World Bank (WB),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #10-2-1,notstarted,World Bank (WB),,,,,line
 #10-3-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
 #10-4-1,notstarted,International Labour Organization (ILO),,,,,line
@@ -30,7 +30,7 @@ United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",,,,,line
 #10-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #10-c-1,notstarted,World Bank,,,,,line
-#11-1-1,notstarted,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
+#11-1-1,complete,United Nations Human Settlements Programme (UN-Habitat) ,,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #11-2-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
 #11-3-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
 #11-3-2,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
@@ -48,7 +48,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 United Nations Population Fund (UNFPA)",,,,,line
 #11-b-1,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
 #11-b-2,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
-#12-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#12-1-1,complete,United Nations Environment Programme (UNEP),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #12-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-3-1,notstarted,The Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -64,7 +64,7 @@ Global Education Monitoring Report",,,,,line
 #12-a-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
 #12-b-1,notstarted,The World Tourism Organization (UN Tourism),,,,,line
 #12-c-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#13-1-1,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
+#13-1-1,complete,United Nations Office for Disaster Reduction (UNDRR),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #13-1-2,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
 #13-1-3,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
 #13-2-1,notstarted,United Nations Framework Convention on Climate Change (UNFCCC Secretariat),,,,,line
@@ -74,7 +74,7 @@ UNESCO Institute for Statistics (UNESCO-UIS)
 Global Education Monitoring Report",,,,,line
 #13-a-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
 #13-b-1,notstarted,United Nations Framework Convention on Climate Change (UNFCCC Secretariat),,,,,line
-#14-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#14-1-1,complete,United Nations Environment Programme (UNEP),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #14-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #14-3-1,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,,,,,line
 #14-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -87,7 +87,7 @@ UN Environment Programme",,,,,line
 #14-a-1,notstarted,Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO),,,,,line
 #14-b-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #14-c-1,notstarted,"Division for Ocean Affairs and the Law of the Sea (DOALOS), Office of Legal Affairs (OLA), United Nations Secretariat",,,,,line
-#15-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#15-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #15-1-2,notstarted,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
 UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
@@ -107,7 +107,7 @@ UN Environment Programme",,,,,line
 #15-a-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
 #15-b-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
 #15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-1-1,notstarted,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,,,line
+#16-1-1,complete,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #16-1-2,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
 #16-1-3,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-1-4,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
@@ -132,7 +132,7 @@ UN Environment Programme",,,,,line
 #16-9-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #16-a-1,notstarted,United Nations Office of the High Commissioner for Human Rights,,,,,line
 #16-b-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#17-1-1,notstarted,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
+#17-1-1,complete,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #17-1-2,notstarted,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
 #17-10-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
@@ -165,7 +165,7 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #17-8-1,notstarted,International Telecommunication Union (ITU),,,,,line
 #17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#2-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #2-1-2,notstarted,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
 #2-2-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)",,,,,line
@@ -182,7 +182,7 @@ World Health Organization (WHO)",,,,,line
 #2-a-2,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-b-1,notstarted,The World Trade Organization (WTO),,,,,line
 #2-c-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#3-1-1,notstarted,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
+#3-1-1,complete,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #3-1-2,notstarted,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
 #3-2-1,notstarted,United Nations Children&#x2019;s Fund (UNICEF),,,,,line
 #3-2-2,notstarted,United Nations Children&#x2019;s Fund (UNICEF),,,,,line
@@ -213,7 +213,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #3-c-1,notstarted,"Health Workforce Department, World Health Organization (WHO)",,,,,line
 #3-d-1,notstarted,World Health Organization (WHO),,,,,line
 #3-d-2,notstarted,World Health Organization (WHO),,,,,line
-#4-1-1,notstarted,UNESCO Institute of Statistics (UIS),,,,,line
+#4-1-1,complete,UNESCO Institute of Statistics (UIS),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #4-1-2,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
 #4-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #4-2-2,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
@@ -227,7 +227,7 @@ Global Education Monitoring Report",,,,,line
 #4-a-1,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
 #4-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #4-c-1,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#5-1-1,notstarted,"UN Women, World Bank Group, OECD Development Centre",,,,,line
+#5-1-1,complete,"UN Women, World Bank Group, OECD Development Centre",,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #5-2-1,notstarted,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)
 United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
@@ -250,8 +250,8 @@ United Nations Statistics Division (UNSD)",,,,,line
 #5-a-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #5-b-1,notstarted,International Telecommunication Union (ITU),,,,,line
 #5-c-1,notstarted,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
-#6-1-1,notstarted,"World Health Organization (WHO)
-United Nations Children&apos;s Fund (UNICEF)",,,,,line
+#6-1-1,complete,"World Health Organization (WHO)
+United Nations Children&apos;s Fund (UNICEF)",,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #6-2-1,notstarted,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",,,,,line
 #6-3-1,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
@@ -270,7 +270,7 @@ Organisation for Economic Co-operation and Development (OECD)",,,,,line
 #6-b-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7-1-1,notstarted,World Bank Group,,,,,line
+#7-1-1,complete,World Bank Group,,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #7-1-2,notstarted,World Health Organization (WHO),,,,,line
 #7-2-1,notstarted,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD) 
@@ -279,7 +279,7 @@ International Renewable Energy Agency (IRENA)",,,,,line
 United Nations Statistics Division (UNSD)",,,,,line
 #7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
 #7-b-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
-#8-1-1,notstarted,United Nations Statistics Division (UNSD),,,,,line
+#8-1-1,complete,United Nations Statistics Division (UNSD),,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #8-10-1,notstarted,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
 #8-10-2,notstarted,World Bank ,,,,,line
 #8-2-1,notstarted,International Labour Organization (ILO),,,,,line
@@ -297,7 +297,7 @@ International Labour Organization (ILO)",,,,,line
 #8-9-2,notstarted,The World Tourism Organization (UN Tourism) with the collaboration of the International Labour Organization (ILO).,True,,,,line
 #8-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #8-b-1,notstarted,International Labour Organization (ILO) ,,,,,line
-#9-1-1,notstarted,World Bank,,,,,line
+#9-1-1,complete,World Bank,,,Sénégal (données nationales),Score normalisé [0 – 1],line
 #9-1-2,notstarted,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); UN Trade and Development (UNCTAD).,,,,,line
 #9-2-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
 #9-2-2,notstarted,"United Nations Industrial Development Organization (UNIDO)
