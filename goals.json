@@ -1,0 +1,138 @@
+[
+  {
+    "goal": 1,
+    "indicators": [
+      "1.1.1"
+    ],
+    "score_2024_moy": 0.378,
+    "score_2030_moy": 0.199
+  },
+  {
+    "goal": 10,
+    "indicators": [
+      "10.1.1"
+    ],
+    "score_2024_moy": 0.449,
+    "score_2030_moy": 0.384
+  },
+  {
+    "goal": 11,
+    "indicators": [
+      "11.1.1"
+    ],
+    "score_2024_moy": 0.638,
+    "score_2030_moy": 0.794
+  },
+  {
+    "goal": 12,
+    "indicators": [
+      "12.1.1"
+    ],
+    "score_2024_moy": 0.606,
+    "score_2030_moy": 0.861
+  },
+  {
+    "goal": 13,
+    "indicators": [
+      "13.1.1"
+    ],
+    "score_2024_moy": 0.264,
+    "score_2030_moy": 0.07
+  },
+  {
+    "goal": 14,
+    "indicators": [
+      "14.1.1"
+    ],
+    "score_2024_moy": 1.0,
+    "score_2030_moy": 0.987
+  },
+  {
+    "goal": 15,
+    "indicators": [
+      "15.1.1"
+    ],
+    "score_2024_moy": 0.46,
+    "score_2030_moy": 0.566
+  },
+  {
+    "goal": 16,
+    "indicators": [
+      "16.1.1"
+    ],
+    "score_2024_moy": 0.1,
+    "score_2030_moy": 0.044
+  },
+  {
+    "goal": 17,
+    "indicators": [
+      "17.1.1"
+    ],
+    "score_2024_moy": 0.592,
+    "score_2030_moy": 0.807
+  },
+  {
+    "goal": 2,
+    "indicators": [
+      "2.1.1"
+    ],
+    "score_2024_moy": 0.75,
+    "score_2030_moy": 0.826
+  },
+  {
+    "goal": 3,
+    "indicators": [
+      "3.1.1"
+    ],
+    "score_2024_moy": 0.791,
+    "score_2030_moy": 0.797
+  },
+  {
+    "goal": 4,
+    "indicators": [
+      "4.1.1"
+    ],
+    "score_2024_moy": 0.963,
+    "score_2030_moy": 0.983
+  },
+  {
+    "goal": 5,
+    "indicators": [
+      "5.1.1"
+    ],
+    "score_2024_moy": 0.966,
+    "score_2030_moy": 0.966
+  },
+  {
+    "goal": 6,
+    "indicators": [
+      "6.1.1"
+    ],
+    "score_2024_moy": 0.763,
+    "score_2030_moy": 0.916
+  },
+  {
+    "goal": 7,
+    "indicators": [
+      "7.1.1"
+    ],
+    "score_2024_moy": 0.651,
+    "score_2030_moy": 0.729
+  },
+  {
+    "goal": 8,
+    "indicators": [
+      "8.1.1"
+    ],
+    "score_2024_moy": 0.808,
+    "score_2030_moy": 0.889
+  },
+  {
+    "goal": 9,
+    "indicators": [
+      "9.1.1"
+    ],
+    "score_2024_moy": 0.754,
+    "score_2030_moy": 0.911
+  }
+]

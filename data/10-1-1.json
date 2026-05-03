@@ -1,0 +1,198 @@
+{
+  "indicator": "10.1.1",
+  "data": [
+    {
+      "Year": 2000,
+      "Value": 0.342,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2001,
+      "Value": 0.318,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2002,
+      "Value": 0.35,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2003,
+      "Value": 0.335,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2004,
+      "Value": 0.355,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2005,
+      "Value": 0.393,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2006,
+      "Value": 0.434,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2007,
+      "Value": 0.457,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2008,
+      "Value": 0.449,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2009,
+      "Value": 0.465,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2010,
+      "Value": 0.401,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2011,
+      "Value": 0.47,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2012,
+      "Value": 0.527,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2013,
+      "Value": 0.44,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2014,
+      "Value": 0.497,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2015,
+      "Value": 0.404,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2016,
+      "Value": 0.507,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2017,
+      "Value": 0.601,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2018,
+      "Value": 0.526,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2019,
+      "Value": 0.444,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2020,
+      "Value": 0.448,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2021,
+      "Value": 0.44,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2022,
+      "Value": 0.402,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2023,
+      "Value": 0.463,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2024,
+      "Value": 0.449,
+      "Type": "Historique"
+    },
+    {
+      "Year": 2025,
+      "Value": 0.4725,
+      "Type": "Projection"
+    },
+    {
+      "Year": 2026,
+      "Value": 0.496,
+      "Type": "Projection"
+    },
+    {
+      "Year": 2027,
+      "Value": 0.5195,
+      "Type": "Projection"
+    },
+    {
+      "Year": 2028,
+      "Value": 0.543,
+      "Type": "Projection"
+    },
+    {
+      "Year": 2029,
+      "Value": 0.5665,
+      "Type": "Projection"
+    },
+    {
+      "Year": 2030,
+      "Value": 0.59,
+      "Type": "Projection"
+    }
+  ],
+  "metadata": {
+    "indicator_name": "Score composite normalisé de l'ODD 10 — Inégalités réduites",
+    "indicator_number": "10.1.1",
+    "national_indicator_description": "Cet indicateur représente le score composite normalisé de l'ODD 10 calculé à partir de 10 indicateurs internationaux disponibles pour le Sénégal. Le score est normalisé dans l'intervalle [0, 1] où 1 correspond à la meilleure performance observée sur la période 2000-2024. La méthode de normalisation appliquée est la méthode min-max (OCDE, 2008).",
+    "national_geographical_coverage": "Sénégal (données nationales)",
+    "computation_units": "Score normalisé [0 – 1]",
+    "computation_calculations": "Score composite calculé par moyenne arithmétique non pondérée des scores min-max normalisés des indicateurs ODD 10 disponibles pour le Sénégal. Formule : C(j,t) = (1/n_j) × Σ S(i,t) pour tout i appartenant à l'ODD 10. Pour les indicateurs à sens négatif (valeur haute = mauvaise performance), la formule d'inversion est appliquée : S(i,t) = [max X(i) − X(i,t)] / [max X(i) − min X(i)].",
+    "data_non_statistical": false,
+    "language": "fr",
+    "un_designated_tier": "2",
+    "goal_meta_link": "https://unstats.un.org/sdgs/metadata/?Text=&Goal=10",
+    "goal_meta_link_text": "Métadonnées ODD 10 — Nations Unies",
+    "actual_indicator_available": "Score composite normalisé ODD 10 (Sénégal, 2000-2024)",
+    "periodicity": "Annuelle",
+    "date_of_national_source_publication": "2024",
+    "contact_organisation": "Agence Nationale de la Statistique et de la Démographie (ANSD), Division de la Méthodologie, de la Coordination et de l'Innovation (DMCI), Dakar, Sénégal",
+    "contact_name": "Analyste Statisticien — Mémoire de fin de formation 2025",
+    "source_active_1": true,
+    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI, PNUD HDR",
+    "source_periodicity_1": "Annuelle",
+    "source_url_1": "https://unstats.un.org/sdgs/indicators/database/",
+    "source_url_text_1": "Base de données ODD — Nations Unies",
+    "national_target": "Réduire les inégalités dans les pays et d'un pays à l'autre d'ici 2030.",
+    "national_target_id": "10.SN",
+    "status": "Rouge — En retard critique (score projeté < 0,40 ou en dégradation)",
+    "score_2024": 0.449,
+    "projection_2030": 0.384,
+    "n_indicateurs": 10,
+    "published": true,
+    "reporting_status": "complete",
+    "tags": [
+      "ODD 10",
+      "Sénégal",
+      "ANSD",
+      "Score composite",
+      "Agenda 2030"
+    ]
+  }
+}
