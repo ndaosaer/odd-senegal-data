@@ -1,0 +1,77 @@
+{
+  "remote_data_prefix": "https://ndaosaer.github.io/odd-senegal-data",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "goals": [
+    {
+      "number": 1,
+      "name": "Pas de pauvreté"
+    },
+    {
+      "number": 2,
+      "name": "Faim zéro"
+    },
+    {
+      "number": 3,
+      "name": "Bonne santé et bien-être"
+    },
+    {
+      "number": 4,
+      "name": "Éducation de qualité"
+    },
+    {
+      "number": 5,
+      "name": "Égalité des genres"
+    },
+    {
+      "number": 6,
+      "name": "Eau propre et assainissement"
+    },
+    {
+      "number": 7,
+      "name": "Énergie propre et abordable"
+    },
+    {
+      "number": 8,
+      "name": "Travail décent et croissance économique"
+    },
+    {
+      "number": 9,
+      "name": "Industrie, innovation et infrastructure"
+    },
+    {
+      "number": 10,
+      "name": "Inégalités réduites"
+    },
+    {
+      "number": 11,
+      "name": "Villes et communautés durables"
+    },
+    {
+      "number": 12,
+      "name": "Consommation et production responsables"
+    },
+    {
+      "number": 13,
+      "name": "Mesures relatives à la lutte contre les changements climatiques"
+    },
+    {
+      "number": 14,
+      "name": "Vie aquatique"
+    },
+    {
+      "number": 15,
+      "name": "Vie terrestre"
+    },
+    {
+      "number": 16,
+      "name": "Paix, justice et institutions efficaces"
+    },
+    {
+      "number": 17,
+      "name": "Partenariats pour la réalisation des objectifs"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "indicator": "8.1.1",
+  "indicator_number": "8.1.1",
+  "indicator_name": "Score composite normalisé — ODD 8 : Travail décent et croissance économique",
+  "goal": "8",
+  "target": "8.1",
+  "target_name": "Travail décent et croissance économique",
+  "published": true,
+  "reporting_status": "complete",
+  "national_indicator_description": "Score composite normalisé de l'ODD 8 calculé à partir de 14 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.808. Projection 2030 : 0.889.",
+  "computation_units": "Score normalisé [0 – 1]",
+  "national_geographical_coverage": "Sénégal",
+  "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+  "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
+  "periodicity": "Annuelle",
+  "status": "Vert",
+  "score_2024": 0.808,
+  "projection_2030": 0.889,
+  "n_indicateurs": 14,
+  "data_start_values": [],
+  "graph_type": "line",
+  "graph_title": "ODD 8 — Travail décent et croissance économique",
+  "graph_annotations": [
+    {
+      "value": 0.75,
+      "label": "Cible 2030",
+      "mode": "horizontal",
+      "preset": "target"
+    }
+  ]
+}

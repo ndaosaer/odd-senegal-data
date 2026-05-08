@@ -1,0 +1,139 @@
+{
+  "statuses": [
+    {
+      "goal": 1,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 2,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 3,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 4,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 5,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 6,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 7,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 8,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 9,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 10,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 11,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 12,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 13,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 14,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 15,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 16,
+      "statuses": {
+        "complete": 1
+      }
+    },
+    {
+      "goal": 17,
+      "statuses": {
+        "complete": 1
+      }
+    }
+  ],
+  "totals": {
+    "total": 17,
+    "complete": 17
+  },
+  "extra_fields": {
+    "status": {
+      "Vert": [
+        "2",
+        "3",
+        "4",
+        "6",
+        "8",
+        "9",
+        "11",
+        "12",
+        "17"
+      ],
+      "Orange": [
+        "5",
+        "7",
+        "14"
+      ],
+      "Orange foncé": [
+        "15"
+      ],
+      "Rouge": [
+        "1",
+        "10",
+        "13",
+        "16"
+      ]
+    }
+  }
+}
