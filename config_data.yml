@@ -16,3 +16,5 @@ translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
     tag: HEAD
+
+automated_translation: false
