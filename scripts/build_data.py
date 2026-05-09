@@ -268,6 +268,8 @@ def main():
         write_json(SITE_DIR / lang / "headline" / "all.json", headlines)
         # Et parfois en/data/all.json
         write_json(SITE_DIR / lang / "data" / "all.json", headlines)
+        write_json(SITE_DIR / lang / "headline" / "all.json", headlines)
+        write_json(SITE_DIR / lang / "data" / "all.json", headlines)
 
     # zip.json (liste des indicateurs publiés)
     zip_data = {
