@@ -62,4 +62,4 @@ GitHub Actions recompile automatiquement. Le site se met à jour en 3-5 minutes.
 ## Auteur
 
 ANSD / DMCI — Mémoire Analyste Statisticien, Dakar 2025
-Saer Ndao
+Saer Ndao, dans le cadre de mon mémoire de fin de formation en tant qu'Analyste Statisticien
