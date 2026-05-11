@@ -1,4 +1,4 @@
-# ODD Sénégal — Données
+# ODD Sénégal, Données
 
 Dépôt des données pour la plateforme Open SDG Sénégal.
 
@@ -62,3 +62,4 @@ GitHub Actions recompile automatiquement. Le site se met à jour en 3-5 minutes.
 ## Auteur
 
 ANSD / DMCI — Mémoire Analyste Statisticien, Dakar 2025
+Saer Ndao
