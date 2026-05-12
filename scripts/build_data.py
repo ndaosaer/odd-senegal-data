@@ -298,6 +298,22 @@ def main():
         print(f"  {lang}/ : {n_files} fichiers")
     print("=" * 60)
 
+# schema.json requis par Open SDG
+    schema = {
+        "fields": [
+            {"name": "indicator", "title": "Indicator", "type": "string"},
+            {"name": "indicator_name", "title": "Indicator name", "type": "string"},
+            {"name": "goal", "title": "Goal", "type": "string"},
+            {"name": "target", "title": "Target", "type": "string"},
+            {"name": "published", "title": "Published", "type": "boolean"},
+            {"name": "reporting_status", "title": "Reporting status", "type": "string"},
+            {"name": "computation_units", "title": "Unit of measurement", "type": "string"},
+            {"name": "graph_type", "title": "Graph type", "type": "string"},
+            {"name": "source_organisation_1", "title": "Organisation", "type": "string"},
+        ]
+    }
+    for lang in LANGUAGES:
+        write_json(SITE_DIR / lang / "meta" / "schema.json", schema)
 
 if __name__ == "__main__":
     main()
