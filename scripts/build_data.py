@@ -146,7 +146,20 @@ def main():
         wj(SITE_DIR / lang / "comb" / "all.json", all_meta)
 
         # ── Divers requis par Open SDG ────────────────────────────────────────
-        wj(SITE_DIR / lang / "translations.json", {})
+        wj(SITE_DIR / lang / "translations.json", {
+            "global_indicators": {
+                f"{num}-1-1": {"title": LBL[num]}
+                for num in NUMS
+            },
+            "global_goals": {
+                num: {"title": LBL[num]}
+                for num in NUMS
+            },
+            "global_targets": {
+                f"{num}-1": {"title": LBL[num]}
+                for num in NUMS
+            },
+        })
         wj(SITE_DIR / lang / "edges.json",        [])
         wj(SITE_DIR / lang / "disaggregation-status.json", {})
 
