@@ -166,6 +166,22 @@ def main():
 
         print(f"  [{lang}] OK — {sum(1 for _ in (SITE_DIR / lang).rglob('*') if _.is_file())} fichiers")
 
+
+    # Traductions au format attendu par sdg_variables.rb
+        wj(SITE_DIR / lang / "translations" / "global_indicators.json", {
+            f"{num}-1-1-title": LBL[num] for num in NUMS
+        })
+        wj(SITE_DIR / lang / "translations" / "global_goals.json", {
+            f"{num}-title": LBL[num] for num in NUMS
+        })
+        wj(SITE_DIR / lang / "translations" / "global_targets.json", {
+            f"{num}-1-title": LBL[num] for num in NUMS
+        })
+        wj(SITE_DIR / lang / "translations" / "general.json", {
+            "goal": "Objectif", "target": "Cible", "indicator": "Indicateur",
+            "data": "Données", "metadata": "Métadonnées"
+        })
+        
     wj(SITE_DIR / "config.json", {
         "remote_data_prefix": "https://ndaosaer.github.io/odd-senegal-data",
         "languages": LANGUAGES,
