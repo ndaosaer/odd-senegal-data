@@ -146,17 +146,18 @@ def main():
         wj(SITE_DIR / lang / "comb" / "all.json", all_meta)
 
         # ── Divers requis par Open SDG ────────────────────────────────────────
+        # Format exact requis par sdg_variables.rb ligne 312
         wj(SITE_DIR / lang / "translations.json", {
             "global_indicators": {
-                f"{num}-1-1": {"title": LBL[num]}
+                f"{num}-1-1-title": LBL[num]
                 for num in NUMS
             },
             "global_goals": {
-                num: {"title": LBL[num]}
+                f"{num}-title": LBL[num]
                 for num in NUMS
             },
             "global_targets": {
-                f"{num}-1": {"title": LBL[num]}
+                f"{num}-1-title": LBL[num]
                 for num in NUMS
             },
         })
