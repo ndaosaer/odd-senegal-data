@@ -103,33 +103,27 @@
     },
     {
       "Year": 2025,
-      "Value": 1.0,
-      "Type": "Projection"
+      "Value": 1.0
     },
     {
       "Year": 2026,
-      "Value": 1.0,
-      "Type": "Projection"
+      "Value": 1.0
     },
     {
       "Year": 2027,
-      "Value": 1.0,
-      "Type": "Projection"
+      "Value": 1.0
     },
     {
       "Year": 2028,
-      "Value": 1.0,
-      "Type": "Projection"
+      "Value": 1.0
     },
     {
       "Year": 2029,
-      "Value": 1.0,
-      "Type": "Projection"
+      "Value": 1.0
     },
     {
       "Year": 2030,
-      "Value": 1.0,
-      "Type": "Projection"
+      "Value": 1.0
     }
   ]
 }

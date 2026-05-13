@@ -2,528 +2,375 @@
   "1-1-1": {
     "indicator": "1.1.1",
     "indicator_number": "1.1.1",
-    "indicator_name": "Score composite normalisé — ODD 1 : Pas de pauvreté",
+    "indicator_name": "Score composite ODD 1 — Pas de pauvreté",
     "goal": "1",
     "target": "1.1",
     "target_name": "Pas de pauvreté",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 1 calculé à partir de 5 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.378. Projection 2030 : 0.199.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 1 (5 indicateurs, 2000-2024). Score 2024 : 0.378. Projection 2030 : 0.199.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI, ANSD",
+    "source_organisation_1": "ONU, Banque Mondiale, ANSD",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Rouge",
     "score_2024": 0.378,
     "projection_2030": 0.199,
-    "n_indicateurs": 5,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 1 — Pas de pauvreté",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "2-1-1": {
     "indicator": "2.1.1",
     "indicator_number": "2.1.1",
-    "indicator_name": "Score composite normalisé — ODD 2 : Faim zéro",
+    "indicator_name": "Score composite ODD 2 — Faim zéro",
     "goal": "2",
     "target": "2.1",
     "target_name": "Faim zéro",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 2 calculé à partir de 39 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.750. Projection 2030 : 0.826.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 2 (39 indicateurs, 2000-2024). Score 2024 : 0.750. Projection 2030 : 0.826.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "FAO FAOSTAT, ONU SDGAPI",
+    "source_organisation_1": "FAO, ONU",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.75,
     "projection_2030": 0.826,
-    "n_indicateurs": 39,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 2 — Faim zéro",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "3-1-1": {
     "indicator": "3.1.1",
     "indicator_number": "3.1.1",
-    "indicator_name": "Score composite normalisé — ODD 3 : Bonne santé et bien-être",
+    "indicator_name": "Score composite ODD 3 — Bonne santé et bien-être",
     "goal": "3",
     "target": "3.1",
     "target_name": "Bonne santé et bien-être",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 3 calculé à partir de 43 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.791. Projection 2030 : 0.797.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 3 (43 indicateurs, 2000-2024). Score 2024 : 0.791. Projection 2030 : 0.797.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "OMS GHO, Banque Mondiale WDI, PNUD HDR",
+    "source_organisation_1": "OMS, Banque Mondiale, PNUD",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.791,
     "projection_2030": 0.797,
-    "n_indicateurs": 43,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 3 — Bonne santé et bien-être",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "4-1-1": {
     "indicator": "4.1.1",
     "indicator_number": "4.1.1",
-    "indicator_name": "Score composite normalisé — ODD 4 : Éducation de qualité",
+    "indicator_name": "Score composite ODD 4 — Éducation de qualité",
     "goal": "4",
     "target": "4.1",
     "target_name": "Éducation de qualité",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 4 calculé à partir de 18 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.963. Projection 2030 : 0.983.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 4 (18 indicateurs, 2000-2024). Score 2024 : 0.963. Projection 2030 : 0.983.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.963,
     "projection_2030": 0.983,
-    "n_indicateurs": 18,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 4 — Éducation de qualité",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "5-1-1": {
     "indicator": "5.1.1",
     "indicator_number": "5.1.1",
-    "indicator_name": "Score composite normalisé — ODD 5 : Égalité des genres",
+    "indicator_name": "Score composite ODD 5 — Égalité des genres",
     "goal": "5",
     "target": "5.1",
     "target_name": "Égalité des genres",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 5 calculé à partir de 5 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.966. Projection 2030 : 0.966.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 5 (5 indicateurs, 2000-2024). Score 2024 : 0.966. Projection 2030 : 0.966.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, PNUD HDR",
+    "source_organisation_1": "ONU, PNUD",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Orange",
     "score_2024": 0.966,
     "projection_2030": 0.966,
-    "n_indicateurs": 5,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 5 — Égalité des genres",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "6-1-1": {
     "indicator": "6.1.1",
     "indicator_number": "6.1.1",
-    "indicator_name": "Score composite normalisé — ODD 6 : Eau propre et assainissement",
+    "indicator_name": "Score composite ODD 6 — Eau propre et assainissement",
     "goal": "6",
     "target": "6.1",
     "target_name": "Eau propre et assainissement",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 6 calculé à partir de 12 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.763. Projection 2030 : 0.916.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 6 (12 indicateurs, 2000-2024). Score 2024 : 0.763. Projection 2030 : 0.916.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.763,
     "projection_2030": 0.916,
-    "n_indicateurs": 12,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 6 — Eau propre et assainissement",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "7-1-1": {
     "indicator": "7.1.1",
     "indicator_number": "7.1.1",
-    "indicator_name": "Score composite normalisé — ODD 7 : Énergie propre et abordable",
+    "indicator_name": "Score composite ODD 7 — Énergie propre et abordable",
     "goal": "7",
     "target": "7.1",
     "target_name": "Énergie propre et abordable",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 7 calculé à partir de 11 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.651. Projection 2030 : 0.729.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 7 (11 indicateurs, 2000-2024). Score 2024 : 0.651. Projection 2030 : 0.729.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Orange",
     "score_2024": 0.651,
     "projection_2030": 0.729,
-    "n_indicateurs": 11,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 7 — Énergie propre et abordable",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "8-1-1": {
     "indicator": "8.1.1",
     "indicator_number": "8.1.1",
-    "indicator_name": "Score composite normalisé — ODD 8 : Travail décent et croissance économique",
+    "indicator_name": "Score composite ODD 8 — Travail décent et croissance économique",
     "goal": "8",
     "target": "8.1",
     "target_name": "Travail décent et croissance économique",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 8 calculé à partir de 14 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.808. Projection 2030 : 0.889.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 8 (14 indicateurs, 2000-2024). Score 2024 : 0.808. Projection 2030 : 0.889.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.808,
     "projection_2030": 0.889,
-    "n_indicateurs": 14,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 8 — Travail décent et croissance économique",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "9-1-1": {
     "indicator": "9.1.1",
     "indicator_number": "9.1.1",
-    "indicator_name": "Score composite normalisé — ODD 9 : Industrie, innovation et infrastructure",
+    "indicator_name": "Score composite ODD 9 — Industrie, innovation et infrastructure",
     "goal": "9",
     "target": "9.1",
     "target_name": "Industrie, innovation et infrastructure",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 9 calculé à partir de 10 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.754. Projection 2030 : 0.911.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 9 (10 indicateurs, 2000-2024). Score 2024 : 0.754. Projection 2030 : 0.911.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.754,
     "projection_2030": 0.911,
-    "n_indicateurs": 10,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 9 — Industrie, innovation et infrastructure",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "10-1-1": {
     "indicator": "10.1.1",
     "indicator_number": "10.1.1",
-    "indicator_name": "Score composite normalisé — ODD 10 : Inégalités réduites",
+    "indicator_name": "Score composite ODD 10 — Inégalités réduites",
     "goal": "10",
     "target": "10.1",
     "target_name": "Inégalités réduites",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 10 calculé à partir de 10 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.449. Projection 2030 : 0.384.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 10 (10 indicateurs, 2000-2024). Score 2024 : 0.449. Projection 2030 : 0.384.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Rouge",
     "score_2024": 0.449,
     "projection_2030": 0.384,
-    "n_indicateurs": 10,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 10 — Inégalités réduites",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "11-1-1": {
     "indicator": "11.1.1",
     "indicator_number": "11.1.1",
-    "indicator_name": "Score composite normalisé — ODD 11 : Villes et communautés durables",
+    "indicator_name": "Score composite ODD 11 — Villes et communautés durables",
     "goal": "11",
     "target": "11.1",
     "target_name": "Villes et communautés durables",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 11 calculé à partir de 8 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.638. Projection 2030 : 0.794.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 11 (8 indicateurs, 2000-2024). Score 2024 : 0.638. Projection 2030 : 0.794.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.638,
     "projection_2030": 0.794,
-    "n_indicateurs": 8,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 11 — Villes et communautés durables",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "12-1-1": {
     "indicator": "12.1.1",
     "indicator_number": "12.1.1",
-    "indicator_name": "Score composite normalisé — ODD 12 : Consommation et production responsables",
+    "indicator_name": "Score composite ODD 12 — Consommation et production responsables",
     "goal": "12",
     "target": "12.1",
     "target_name": "Consommation et production responsables",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 12 calculé à partir de 4 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.606. Projection 2030 : 0.861.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 12 (4 indicateurs, 2000-2024). Score 2024 : 0.606. Projection 2030 : 0.861.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.606,
     "projection_2030": 0.861,
-    "n_indicateurs": 4,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 12 — Consommation et production responsables",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "13-1-1": {
     "indicator": "13.1.1",
     "indicator_number": "13.1.1",
-    "indicator_name": "Score composite normalisé — ODD 13 : Mesures relatives à la lutte contre les changements climatiques",
+    "indicator_name": "Score composite ODD 13 — Mesures relatives à la lutte contre les changements climatiques",
     "goal": "13",
     "target": "13.1",
     "target_name": "Mesures relatives à la lutte contre les changements climatiques",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 13 calculé à partir de 13 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.264. Projection 2030 : 0.070.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 13 (13 indicateurs, 2000-2024). Score 2024 : 0.264. Projection 2030 : 0.070.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "FAO FAOSTAT, Banque Mondiale WDI",
+    "source_organisation_1": "FAO, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Rouge",
     "score_2024": 0.264,
     "projection_2030": 0.07,
-    "n_indicateurs": 13,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 13 — Mesures relatives à la lutte contre les changements climatiques",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "14-1-1": {
     "indicator": "14.1.1",
     "indicator_number": "14.1.1",
-    "indicator_name": "Score composite normalisé — ODD 14 : Vie aquatique",
+    "indicator_name": "Score composite ODD 14 — Vie aquatique",
     "goal": "14",
     "target": "14.1",
     "target_name": "Vie aquatique",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 14 calculé à partir de 2 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 1.000. Projection 2030 : 0.987.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 14 (2 indicateurs, 2000-2024). Score 2024 : 1.000. Projection 2030 : 0.987.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI",
+    "source_organisation_1": "ONU",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Orange",
     "score_2024": 1.0,
     "projection_2030": 0.987,
-    "n_indicateurs": 2,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 14 — Vie aquatique",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "15-1-1": {
     "indicator": "15.1.1",
     "indicator_number": "15.1.1",
-    "indicator_name": "Score composite normalisé — ODD 15 : Vie terrestre",
+    "indicator_name": "Score composite ODD 15 — Vie terrestre",
     "goal": "15",
     "target": "15.1",
     "target_name": "Vie terrestre",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 15 calculé à partir de 22 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.460. Projection 2030 : 0.566.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 15 (22 indicateurs, 2000-2024). Score 2024 : 0.460. Projection 2030 : 0.566.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "FAO FAOSTAT, Banque Mondiale WDI",
+    "source_organisation_1": "FAO, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Orange foncé",
     "score_2024": 0.46,
     "projection_2030": 0.566,
-    "n_indicateurs": 22,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 15 — Vie terrestre",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "16-1-1": {
     "indicator": "16.1.1",
     "indicator_number": "16.1.1",
-    "indicator_name": "Score composite normalisé — ODD 16 : Paix, justice et institutions efficaces",
+    "indicator_name": "Score composite ODD 16 — Paix, justice et institutions efficaces",
     "goal": "16",
     "target": "16.1",
     "target_name": "Paix, justice et institutions efficaces",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 16 calculé à partir de 5 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.100. Projection 2030 : 0.044.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 16 (5 indicateurs, 2000-2024). Score 2024 : 0.100. Projection 2030 : 0.044.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Rouge",
     "score_2024": 0.1,
     "projection_2030": 0.044,
-    "n_indicateurs": 5,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 16 — Paix, justice et institutions efficaces",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   },
   "17-1-1": {
     "indicator": "17.1.1",
     "indicator_number": "17.1.1",
-    "indicator_name": "Score composite normalisé — ODD 17 : Partenariats pour la réalisation des objectifs",
+    "indicator_name": "Score composite ODD 17 — Partenariats pour la réalisation des objectifs",
     "goal": "17",
     "target": "17.1",
     "target_name": "Partenariats pour la réalisation des objectifs",
     "published": true,
     "reporting_status": "complete",
-    "national_indicator_description": "Score composite normalisé de l'ODD 17 calculé à partir de 20 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.592. Projection 2030 : 0.807.",
+    "national_indicator_description": "Score composite normalisé de l'ODD 17 (20 indicateurs, 2000-2024). Score 2024 : 0.592. Projection 2030 : 0.807.",
     "computation_units": "Score normalisé [0 – 1]",
     "national_geographical_coverage": "Sénégal",
-    "source_organisation_1": "ONU SDGAPI, Banque Mondiale WDI",
+    "source_organisation_1": "ONU, Banque Mondiale",
     "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
     "periodicity": "Annuelle",
     "status": "Vert",
     "score_2024": 0.592,
     "projection_2030": 0.807,
-    "n_indicateurs": 20,
-    "data_start_values": [],
     "graph_type": "line",
     "graph_title": "ODD 17 — Partenariats pour la réalisation des objectifs",
-    "graph_annotations": [
-      {
-        "value": 0.75,
-        "label": "Cible 2030",
-        "mode": "horizontal",
-        "preset": "target"
-      }
-    ]
+    "data_start_values": []
   }
 }

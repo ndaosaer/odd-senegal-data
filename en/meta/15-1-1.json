@@ -1,31 +1,22 @@
 {
   "indicator": "15.1.1",
   "indicator_number": "15.1.1",
-  "indicator_name": "Score composite normalisé — ODD 15 : Vie terrestre",
+  "indicator_name": "Score composite ODD 15 — Vie terrestre",
   "goal": "15",
   "target": "15.1",
   "target_name": "Vie terrestre",
   "published": true,
   "reporting_status": "complete",
-  "national_indicator_description": "Score composite normalisé de l'ODD 15 calculé à partir de 22 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.460. Projection 2030 : 0.566.",
+  "national_indicator_description": "Score composite normalisé de l'ODD 15 (22 indicateurs, 2000-2024). Score 2024 : 0.460. Projection 2030 : 0.566.",
   "computation_units": "Score normalisé [0 – 1]",
   "national_geographical_coverage": "Sénégal",
-  "source_organisation_1": "FAO FAOSTAT, Banque Mondiale WDI",
+  "source_organisation_1": "FAO, Banque Mondiale",
   "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
   "periodicity": "Annuelle",
   "status": "Orange foncé",
   "score_2024": 0.46,
   "projection_2030": 0.566,
-  "n_indicateurs": 22,
-  "data_start_values": [],
   "graph_type": "line",
   "graph_title": "ODD 15 — Vie terrestre",
-  "graph_annotations": [
-    {
-      "value": 0.75,
-      "label": "Cible 2030",
-      "mode": "horizontal",
-      "preset": "target"
-    }
-  ]
+  "data_start_values": []
 }

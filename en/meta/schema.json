@@ -32,7 +32,7 @@
     },
     {
       "name": "computation_units",
-      "title": "Unit of measurement",
+      "title": "Unit",
       "type": "string"
     },
     {

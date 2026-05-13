@@ -1,31 +1,22 @@
 {
   "indicator": "2.1.1",
   "indicator_number": "2.1.1",
-  "indicator_name": "Score composite normalisé — ODD 2 : Faim zéro",
+  "indicator_name": "Score composite ODD 2 — Faim zéro",
   "goal": "2",
   "target": "2.1",
   "target_name": "Faim zéro",
   "published": true,
   "reporting_status": "complete",
-  "national_indicator_description": "Score composite normalisé de l'ODD 2 calculé à partir de 39 indicateurs internationaux pour le Sénégal (2000-2024). Méthode : normalisation min-max (OCDE, 2008). Score 2024 : 0.750. Projection 2030 : 0.826.",
+  "national_indicator_description": "Score composite normalisé de l'ODD 2 (39 indicateurs, 2000-2024). Score 2024 : 0.750. Projection 2030 : 0.826.",
   "computation_units": "Score normalisé [0 – 1]",
   "national_geographical_coverage": "Sénégal",
-  "source_organisation_1": "FAO FAOSTAT, ONU SDGAPI",
+  "source_organisation_1": "FAO, ONU",
   "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
   "periodicity": "Annuelle",
   "status": "Vert",
   "score_2024": 0.75,
   "projection_2030": 0.826,
-  "n_indicateurs": 39,
-  "data_start_values": [],
   "graph_type": "line",
   "graph_title": "ODD 2 — Faim zéro",
-  "graph_annotations": [
-    {
-      "value": 0.75,
-      "label": "Cible 2030",
-      "mode": "horizontal",
-      "preset": "target"
-    }
-  ]
+  "data_start_values": []
 }
