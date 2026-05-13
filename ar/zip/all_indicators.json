@@ -1,0 +1,155 @@
+[
+  {
+    "inid": "1-1-1",
+    "goal": "1",
+    "target": "1.1",
+    "indicator": "1.1.1",
+    "name": "Score composite ODD 1 — Pas de pauvreté",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "2-1-1",
+    "goal": "2",
+    "target": "2.1",
+    "indicator": "2.1.1",
+    "name": "Score composite ODD 2 — Faim zéro",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "3-1-1",
+    "goal": "3",
+    "target": "3.1",
+    "indicator": "3.1.1",
+    "name": "Score composite ODD 3 — Bonne santé et bien-être",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "4-1-1",
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.1",
+    "name": "Score composite ODD 4 — Éducation de qualité",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "5-1-1",
+    "goal": "5",
+    "target": "5.1",
+    "indicator": "5.1.1",
+    "name": "Score composite ODD 5 — Égalité des genres",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "6-1-1",
+    "goal": "6",
+    "target": "6.1",
+    "indicator": "6.1.1",
+    "name": "Score composite ODD 6 — Eau propre et assainissement",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "7-1-1",
+    "goal": "7",
+    "target": "7.1",
+    "indicator": "7.1.1",
+    "name": "Score composite ODD 7 — Énergie propre et abordable",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "8-1-1",
+    "goal": "8",
+    "target": "8.1",
+    "indicator": "8.1.1",
+    "name": "Score composite ODD 8 — Travail décent et croissance économique",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "9-1-1",
+    "goal": "9",
+    "target": "9.1",
+    "indicator": "9.1.1",
+    "name": "Score composite ODD 9 — Industrie, innovation et infrastructure",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "10-1-1",
+    "goal": "10",
+    "target": "10.1",
+    "indicator": "10.1.1",
+    "name": "Score composite ODD 10 — Inégalités réduites",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "11-1-1",
+    "goal": "11",
+    "target": "11.1",
+    "indicator": "11.1.1",
+    "name": "Score composite ODD 11 — Villes et communautés durables",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "12-1-1",
+    "goal": "12",
+    "target": "12.1",
+    "indicator": "12.1.1",
+    "name": "Score composite ODD 12 — Consommation et production responsables",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "13-1-1",
+    "goal": "13",
+    "target": "13.1",
+    "indicator": "13.1.1",
+    "name": "Score composite ODD 13 — Mesures relatives à la lutte contre les changements climatiques",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "14-1-1",
+    "goal": "14",
+    "target": "14.1",
+    "indicator": "14.1.1",
+    "name": "Score composite ODD 14 — Vie aquatique",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "15-1-1",
+    "goal": "15",
+    "target": "15.1",
+    "indicator": "15.1.1",
+    "name": "Score composite ODD 15 — Vie terrestre",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "16-1-1",
+    "goal": "16",
+    "target": "16.1",
+    "indicator": "16.1.1",
+    "name": "Score composite ODD 16 — Paix, justice et institutions efficaces",
+    "published": true,
+    "reporting_status": "complete"
+  },
+  {
+    "inid": "17-1-1",
+    "goal": "17",
+    "target": "17.1",
+    "indicator": "17.1.1",
+    "name": "Score composite ODD 17 — Partenariats pour la réalisation des objectifs",
+    "published": true,
+    "reporting_status": "complete"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "indicator": "1.1.1",
+  "indicator_number": "1.1.1",
+  "indicator_name": "Score composite ODD 1 — Pas de pauvreté",
+  "goal": "1",
+  "target": "1.1",
+  "target_name": "Pas de pauvreté",
+  "published": true,
+  "reporting_status": "complete",
+  "national_indicator_description": "Score composite normalisé de l'ODD 1 (5 indicateurs, 2000-2024). Score 2024 : 0.378. Projection 2030 : 0.199.",
+  "computation_units": "Score normalisé [0 – 1]",
+  "national_geographical_coverage": "Sénégal",
+  "source_organisation_1": "ONU, Banque Mondiale, ANSD",
+  "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
+  "periodicity": "Annuelle",
+  "status": "Rouge",
+  "score_2024": 0.378,
+  "projection_2030": 0.199,
+  "graph_type": "line",
+  "graph_title": "ODD 1 — Pas de pauvreté",
+  "data_start_values": []
+}

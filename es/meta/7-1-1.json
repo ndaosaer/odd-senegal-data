@@ -1,0 +1,22 @@
+{
+  "indicator": "7.1.1",
+  "indicator_number": "7.1.1",
+  "indicator_name": "Score composite ODD 7 — Énergie propre et abordable",
+  "goal": "7",
+  "target": "7.1",
+  "target_name": "Énergie propre et abordable",
+  "published": true,
+  "reporting_status": "complete",
+  "national_indicator_description": "Score composite normalisé de l'ODD 7 (11 indicateurs, 2000-2024). Score 2024 : 0.651. Projection 2030 : 0.729.",
+  "computation_units": "Score normalisé [0 – 1]",
+  "national_geographical_coverage": "Sénégal",
+  "source_organisation_1": "ONU, Banque Mondiale",
+  "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
+  "periodicity": "Annuelle",
+  "status": "Orange",
+  "score_2024": 0.651,
+  "projection_2030": 0.729,
+  "graph_type": "line",
+  "graph_title": "ODD 7 — Énergie propre et abordable",
+  "data_start_values": []
+}

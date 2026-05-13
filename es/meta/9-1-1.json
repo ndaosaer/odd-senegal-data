@@ -1,0 +1,22 @@
+{
+  "indicator": "9.1.1",
+  "indicator_number": "9.1.1",
+  "indicator_name": "Score composite ODD 9 — Industrie, innovation et infrastructure",
+  "goal": "9",
+  "target": "9.1",
+  "target_name": "Industrie, innovation et infrastructure",
+  "published": true,
+  "reporting_status": "complete",
+  "national_indicator_description": "Score composite normalisé de l'ODD 9 (10 indicateurs, 2000-2024). Score 2024 : 0.754. Projection 2030 : 0.911.",
+  "computation_units": "Score normalisé [0 – 1]",
+  "national_geographical_coverage": "Sénégal",
+  "source_organisation_1": "ONU, Banque Mondiale",
+  "contact_organisation": "ANSD / DMCI — Dakar, Sénégal",
+  "periodicity": "Annuelle",
+  "status": "Vert",
+  "score_2024": 0.754,
+  "projection_2030": 0.911,
+  "graph_type": "line",
+  "graph_title": "ODD 9 — Industrie, innovation et infrastructure",
+  "data_start_values": []
+}
