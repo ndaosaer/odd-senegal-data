@@ -113,6 +113,25 @@ def main():
         for num in NUMS:
             wj(SITE_DIR / lang / "meta" / f"{num}-1-1.json", all_meta[f"{num}-1-1"])
 
+
+        # Traductions par namespace requis par backwards_compatibility.rb
+        wj(SITE_DIR / lang / "translations" / "global_indicators.json", {
+            f"{num}-1-1-title": LBL[num] for num in NUMS
+        })
+        wj(SITE_DIR / lang / "translations" / "global_goals.json", {
+            f"{num}-title": LBL[num] for num in NUMS
+        })
+        wj(SITE_DIR / lang / "translations" / "global_targets.json", {
+            f"{num}-1-title": LBL[num] for num in NUMS
+        })
+        wj(SITE_DIR / lang / "translations" / "general.json", {
+            "goal": "Objectif" if lang == "fr" else "Goal",
+            "target": "Cible" if lang == "fr" else "Target",
+            "indicator": "Indicateur" if lang == "fr" else "Indicator",
+            "status": "Statut" if lang == "fr" else "Status",
+            "data": "Données" if lang == "fr" else "Data",
+        })
+
         # ── Data ─────────────────────────────────────────────────────────────
         wj(SITE_DIR / lang / "data" / "all.json",       headlines)
         wj(SITE_DIR / lang / "data" / "headlines.json", headlines)
