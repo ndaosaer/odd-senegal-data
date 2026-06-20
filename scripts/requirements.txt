@@ -1,0 +1,7 @@
+pandas
+pyyaml
+jsonschema
+requests
+xlrd
+openpyxl
+git+https://github.com/open-sdg/sdg-build.git@master
