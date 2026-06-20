@@ -1,0 +1,21 @@
+# Configuration de construction des donnees Open SDG
+# Documentation : https://open-sdg.readthedocs.io/en/latest/data-configuration/
+
+site_dir: '_site'
+
+inputs:
+  - class: InputCsvData
+    path_pattern: data/*-*.csv
+  - class: InputYamlMeta
+    path_pattern: meta/*-*.yml
+    git: false
+
+languages:
+  - fr
+
+translations:
+  - class: TranslationInputSdgTranslations
+    tag: main
+
+docs_branding: ''
+docs_intro: ''
