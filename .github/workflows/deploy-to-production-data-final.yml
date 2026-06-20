@@ -28,7 +28,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install pyyaml pandas
+        run: pip install -r scripts/requirements.txt
 
       - name: Build data
         run: python scripts/build_data.py
