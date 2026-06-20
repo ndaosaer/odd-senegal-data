@@ -1,0 +1,45 @@
+# Schema des metadonnees pour les indicateurs ODD du Senegal.
+prose:
+  metadata:
+    meta:
+      - name: indicator_name
+        field:
+            element: text
+            label: Nom de l'indicateur
+      - name: national_indicator_description
+        field:
+            element: textarea
+            label: Description
+      - name: reporting_status
+        field:
+            element: select
+            label: Statut de publication
+            options:
+              - label: Complete
+                value: complete
+              - label: Not started
+                value: notstarted
+      - name: national_geographical_coverage
+        field:
+            element: text
+            label: Couverture geographique
+      - name: source_organisation_1
+        field:
+            element: text
+            label: Source
+      - name: source_active_1
+        field:
+            element: checkbox
+            label: Source active
+      - name: computation_units
+        field:
+            element: text
+            label: Unite
+      - name: graph_type
+        field:
+            element: text
+            label: Type de graphique
+      - name: data_non_disaggregated
+        field:
+            element: checkbox
+            label: Donnees non desagregees
