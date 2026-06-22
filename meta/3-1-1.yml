@@ -1,0 +1,12 @@
+indicator_name: 'Score composite ODD 3 : Bonne sante et bien-etre'
+national_indicator_description: Score composite normalise (0 a 1) construit a partir
+  de 43 indicateurs officiels rattaches a l'ODD 3, sur la periode 2000-2024.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: OMS, ANSD, PNUD
+source_active_1: true
+computation_units: Score normalise [0-1]
+graph_type: line
+graph_title: 'Evolution du score ODD 3 : Bonne sante et bien-etre'
+data_non_disaggregated: true
