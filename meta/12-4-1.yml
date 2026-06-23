@@ -1,0 +1,15 @@
+indicator_name: Parties meeting their commitments and obligations in transmitting
+  information as required by Basel Convention on hazardous waste, and other chemicals
+  (%)
+national_indicator_description: Indicateur 12.4.1 rattache a l'ODD 12 (Consommation
+  et production responsables). 2 observations disponibles entre 2015 et 2020.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Parties meeting their commitments and obligations in transmitting information
+  as required by Basel C
+data_non_disaggregated: true

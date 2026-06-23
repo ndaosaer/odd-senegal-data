@@ -1,0 +1,13 @@
+indicator_name: Unsentenced detainees as a proportion of overall prison population
+  (%)
+national_indicator_description: Indicateur 16.3.2 rattache a l'ODD 16 (Paix, justice
+  et institutions efficaces). 7 observations disponibles entre 2010 et 2023.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Unsentenced detainees as a proportion of overall prison population (%)
+data_non_disaggregated: true

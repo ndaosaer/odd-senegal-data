@@ -1,0 +1,14 @@
+indicator_name: Number of refugees per 100,000 population, by country of origin (per
+  100,000 population)
+national_indicator_description: Indicateur 10.7.4 rattache a l'ODD 10 (Inegalites
+  reduites). 25 observations disponibles entre 2000 et 2024.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Number of refugees per 100,000 population, by country of origin (per
+  100,000 population)
+data_non_disaggregated: true

@@ -1,0 +1,14 @@
+indicator_name: Domestic material consumption per unit of GDP, by type of raw material
+  (kilograms per constant 2015 United States dollars)
+national_indicator_description: Indicateur 12.2.2 rattache a l'ODD 12 (Consommation
+  et production responsables). 25 observations disponibles entre 2000 et 2024.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: 'Domestic material consumption per unit of GDP, by type of raw material
+  (kilograms per constant 2015 '
+data_non_disaggregated: true

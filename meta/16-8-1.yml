@@ -1,0 +1,14 @@
+indicator_name: Proportion of voting rights of developing countries in international
+  organizations, by organization (%)
+national_indicator_description: Indicateur 16.8.1 rattache a l'ODD 16 (Paix, justice
+  et institutions efficaces). 13 observations disponibles entre 2000 et 2023.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: 'Proportion of voting rights of developing countries in international
+  organizations, by organization '
+data_non_disaggregated: true

@@ -1,0 +1,14 @@
+indicator_name: Average proportion of Marine Key Biodiversity Areas (KBAs) covered
+  by protected areas (%)
+national_indicator_description: Indicateur 14.5.1 rattache a l'ODD 14 (Vie aquatique).
+  25 observations disponibles entre 2000 et 2024.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Average proportion of Marine Key Biodiversity Areas (KBAs) covered by
+  protected areas (%)
+data_non_disaggregated: true

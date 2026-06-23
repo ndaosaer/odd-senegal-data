@@ -1,0 +1,14 @@
+indicator_name: Number of countries with an outward investment promotion scheme which
+  can benefit developing countries, including LDCs (1 = YES, 0 = NO)
+national_indicator_description: Indicateur 17.5.1 rattache a l'ODD 17 (Partenariats
+  pour la realisation des objectifs). 1 observations disponibles entre 2023 et 2023.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Number of countries with an outward investment promotion scheme which
+  can benefit developing countri
+data_non_disaggregated: true

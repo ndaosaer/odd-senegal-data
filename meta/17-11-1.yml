@@ -1,0 +1,14 @@
+indicator_name: Developing countries’ and least developed countries’ share of global
+  services imports (%)
+national_indicator_description: Indicateur 17.11.1 rattache a l'ODD 17 (Partenariats
+  pour la realisation des objectifs). 24 observations disponibles entre 2000 et 2023.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Developing countries’ and least developed countries’ share of global
+  services imports (%)
+data_non_disaggregated: true

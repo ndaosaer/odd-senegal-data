@@ -1,0 +1,12 @@
+indicator_name: Total waste generation, by activity (Tonnes)
+national_indicator_description: Indicateur 12.4.2 rattache a l'ODD 12 (Consommation
+  et production responsables). 18 observations disponibles entre 2000 et 2017.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Total waste generation, by activity (Tonnes)
+data_non_disaggregated: true

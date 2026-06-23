@@ -1,0 +1,14 @@
+indicator_name: Worldwide weighted tariff-average, preferential status, by type of
+  product (%)
+national_indicator_description: Indicateur 17.10.1 rattache a l'ODD 17 (Partenariats
+  pour la realisation des objectifs). 11 observations disponibles entre 2005 et 2023.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Worldwide weighted tariff-average, preferential status, by type of product
+  (%)
+data_non_disaggregated: true

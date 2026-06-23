@@ -1,0 +1,14 @@
+indicator_name: Number of people whose damaged dwellings were attributed to disasters
+  (number)
+national_indicator_description: Indicateur 11.5.1 rattache a l'ODD 11 (Villes et communautes
+  durables). 11 observations disponibles entre 2005 et 2015.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Number of people whose damaged dwellings were attributed to disasters
+  (number)
+data_non_disaggregated: true
