@@ -22,7 +22,7 @@
           }
         ]
       },
-      "title": "12-3-1"
+      "title": "Food waste per capita (KG)"
     },
     {
       "path": "17-18-2/data.csv",
@@ -44,7 +44,7 @@
           }
         ]
       },
-      "title": "17-18-2"
+      "title": "Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO)"
     },
     {
       "path": "11-5-2/data.csv",
@@ -66,7 +66,7 @@
           }
         ]
       },
-      "title": "11-5-2"
+      "title": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)"
     },
     {
       "path": "4-2-2/data.csv",
@@ -132,7 +132,7 @@
           }
         ]
       },
-      "title": "16-9-1"
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age)"
     },
     {
       "path": "12-5-1/data.csv",
@@ -154,7 +154,7 @@
           }
         ]
       },
-      "title": "12-5-1"
+      "title": "Electronic waste recycled (Tonnes)"
     },
     {
       "path": "2-99-1/data.csv",
@@ -242,7 +242,7 @@
           }
         ]
       },
-      "title": "11-99-1"
+      "title": "[Indice de synthese] Score composite ODD 11 : Villes et communautes durables"
     },
     {
       "path": "2-3-2/data.csv",
@@ -396,7 +396,7 @@
           }
         ]
       },
-      "title": "17-8-1"
+      "title": "Proportion of individuals using the Internet (%)"
     },
     {
       "path": "10-1-1/data.csv",
@@ -440,7 +440,7 @@
           }
         ]
       },
-      "title": "17-18-1"
+      "title": "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index)"
     },
     {
       "path": "17-3-1/data.csv",
@@ -462,7 +462,7 @@
           }
         ]
       },
-      "title": "17-3-1"
+      "title": "Foreign direct investment (FDI) inflows (millions of United States dollars)"
     },
     {
       "path": "17-6-1/data.csv",
@@ -484,7 +484,7 @@
           }
         ]
       },
-      "title": "17-6-1"
+      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)"
     },
     {
       "path": "16-6-1/data.csv",
@@ -506,7 +506,7 @@
           }
         ]
       },
-      "title": "16-6-1"
+      "title": "Primary government expenditures as a proportion of original approved budget (%)"
     },
     {
       "path": "3-5-1/data.csv",
@@ -616,7 +616,7 @@
           }
         ]
       },
-      "title": "15-4-2"
+      "title": "Mountain green cover area (square kilometres)"
     },
     {
       "path": "5-3-1/data.csv",
@@ -660,7 +660,7 @@
           }
         ]
       },
-      "title": "15-5-1"
+      "title": "Red List Index"
     },
     {
       "path": "14-7-1/data.csv",
@@ -682,7 +682,7 @@
           }
         ]
       },
-      "title": "14-7-1"
+      "title": "Sustainable fisheries as a proportion of GDP"
     },
     {
       "path": "10-2-1/data.csv",
@@ -792,7 +792,7 @@
           }
         ]
       },
-      "title": "10-7-3"
+      "title": "Total deaths and disappearances recorded during migration (number)"
     },
     {
       "path": "4-1-2/data.csv",
@@ -858,7 +858,7 @@
           }
         ]
       },
-      "title": "17-3-2"
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP (%)"
     },
     {
       "path": "4-2-1/data.csv",
@@ -924,7 +924,7 @@
           }
         ]
       },
-      "title": "17-11-1"
+      "title": "Developing countries’ and least developed countries’ share of global services imports (%)"
     },
     {
       "path": "3-1-2/data.csv",
@@ -968,7 +968,7 @@
           }
         ]
       },
-      "title": "11-5-3"
+      "title": "Number of disruptions to health services attributed to disasters (number)"
     },
     {
       "path": "6-1-1/data.csv",
@@ -1056,7 +1056,7 @@
           }
         ]
       },
-      "title": "17-17-1"
+      "title": "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
     },
     {
       "path": "2-2-1/data.csv",
@@ -1122,7 +1122,7 @@
           }
         ]
       },
-      "title": "16-5-1"
+      "title": "Prevalence rate of bribery, by sex (%)"
     },
     {
       "path": "16-2-2/data.csv",
@@ -1144,7 +1144,7 @@
           }
         ]
       },
-      "title": "16-2-2"
+      "title": "Detected victims of human trafficking, by age and sex (per 100,000 population)"
     },
     {
       "path": "17-13-1/data.csv",
@@ -1166,7 +1166,7 @@
           }
         ]
       },
-      "title": "17-13-1"
+      "title": "Annual GDP growth (%)"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1210,7 +1210,7 @@
           }
         ]
       },
-      "title": "17-10-1"
+      "title": "Worldwide weighted tariff-average, preferential status, by type of product (%)"
     },
     {
       "path": "3-6-1/data.csv",
@@ -1320,7 +1320,7 @@
           }
         ]
       },
-      "title": "15-3-1"
+      "title": "Proportion of land that is degraded over total land area (%)"
     },
     {
       "path": "13-99-1/data.csv",
@@ -1342,7 +1342,7 @@
           }
         ]
       },
-      "title": "13-99-1"
+      "title": "[Indice de synthese] Score composite ODD 13 : Mesures relatives a la lutte contre les changements climatiques"
     },
     {
       "path": "16-5-2/data.csv",
@@ -1364,7 +1364,7 @@
           }
         ]
       },
-      "title": "16-5-2"
+      "title": "Bribery incidence (% of firms experiencing at least one bribe payment request)"
     },
     {
       "path": "10-99-1/data.csv",
@@ -1386,7 +1386,7 @@
           }
         ]
       },
-      "title": "10-99-1"
+      "title": "[Indice de synthese] Score composite ODD 10 : Inegalites reduites"
     },
     {
       "path": "10-3-1/data.csv",
@@ -1408,7 +1408,7 @@
           }
         ]
       },
-      "title": "10-3-1"
+      "title": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)"
     },
     {
       "path": "14-1-1/data.csv",
@@ -1430,7 +1430,7 @@
           }
         ]
       },
-      "title": "14-1-1"
+      "title": "Chlorophyll-a deviations, remote sensing (%)"
     },
     {
       "path": "16-99-1/data.csv",
@@ -1452,7 +1452,7 @@
           }
         ]
       },
-      "title": "16-99-1"
+      "title": "[Indice de synthese] Score composite ODD 16 : Paix, justice et institutions efficaces"
     },
     {
       "path": "6-2-1/data.csv",
@@ -1496,7 +1496,7 @@
           }
         ]
       },
-      "title": "10-6-1"
+      "title": "Proportion of members of developing countries in international organizations, by organization (%)"
     },
     {
       "path": "14-6-1/data.csv",
@@ -1518,7 +1518,7 @@
           }
         ]
       },
-      "title": "14-6-1"
+      "title": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)"
     },
     {
       "path": "10-7-2/data.csv",
@@ -1540,7 +1540,7 @@
           }
         ]
       },
-      "title": "10-7-2"
+      "title": "Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets"
     },
     {
       "path": "17-19-2/data.csv",
@@ -1562,7 +1562,7 @@
           }
         ]
       },
-      "title": "17-19-2"
+      "title": "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)"
     },
     {
       "path": "16-10-1/data.csv",
@@ -1584,7 +1584,7 @@
           }
         ]
       },
-      "title": "16-10-1"
+      "title": "Countries with at least one verified case of enforced disappearance of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)"
     },
     {
       "path": "3-2-1/data.csv",
@@ -1650,7 +1650,7 @@
           }
         ]
       },
-      "title": "17-99-1"
+      "title": "[Indice de synthese] Score composite ODD 17 : Partenariats pour la realisation des objectifs"
     },
     {
       "path": "17-4-1/data.csv",
@@ -1672,7 +1672,7 @@
           }
         ]
       },
-      "title": "17-4-1"
+      "title": "Debt service as a proportion of exports of goods, services and primary income (%)"
     },
     {
       "path": "8-10-1/data.csv",
@@ -1716,7 +1716,7 @@
           }
         ]
       },
-      "title": "15-1-2"
+      "title": "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)"
     },
     {
       "path": "2-5-1/data.csv",
@@ -1782,7 +1782,7 @@
           }
         ]
       },
-      "title": "14-5-1"
+      "title": "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)"
     },
     {
       "path": "7-3-1/data.csv",
@@ -1826,7 +1826,7 @@
           }
         ]
       },
-      "title": "15-9-1"
+      "title": "Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 "
     },
     {
       "path": "4-6-1/data.csv",
@@ -1870,7 +1870,7 @@
           }
         ]
       },
-      "title": "17-19-1"
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars)"
     },
     {
       "path": "12-1-1/data.csv",
@@ -1892,7 +1892,7 @@
           }
         ]
       },
-      "title": "12-1-1"
+      "title": "Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1936,7 +1936,7 @@
           }
         ]
       },
-      "title": "15-99-1"
+      "title": "[Indice de synthese] Score composite ODD 15 : Vie terrestre"
     },
     {
       "path": "15-2-1/data.csv",
@@ -1958,7 +1958,7 @@
           }
         ]
       },
-      "title": "15-2-1"
+      "title": "Above-ground biomass in forest (tonnes per hectare)"
     },
     {
       "path": "9-99-1/data.csv",
@@ -2068,7 +2068,7 @@
           }
         ]
       },
-      "title": "11-5-1"
+      "title": "Number of people whose damaged dwellings were attributed to disasters (number)"
     },
     {
       "path": "1-5-1/data.csv",
@@ -2112,7 +2112,7 @@
           }
         ]
       },
-      "title": "12-99-1"
+      "title": "[Indice de synthese] Score composite ODD 12 : Consommation et production responsables"
     },
     {
       "path": "8-4-2/data.csv",
@@ -2156,7 +2156,7 @@
           }
         ]
       },
-      "title": "16-2-3"
+      "title": "Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29)"
     },
     {
       "path": "15-1-1/data.csv",
@@ -2178,7 +2178,7 @@
           }
         ]
       },
-      "title": "15-1-1"
+      "title": "Land area (thousands of hectares)"
     },
     {
       "path": "2-4-1/data.csv",
@@ -2222,7 +2222,7 @@
           }
         ]
       },
-      "title": "17-1-1"
+      "title": "Total government revenue, in local currency"
     },
     {
       "path": "5-6-1/data.csv",
@@ -2266,7 +2266,7 @@
           }
         ]
       },
-      "title": "17-1-2"
+      "title": "Proportion of domestic budget funded by domestic taxes (%)"
     },
     {
       "path": "17-7-1/data.csv",
@@ -2288,7 +2288,7 @@
           }
         ]
       },
-      "title": "17-7-1"
+      "title": "Amount of tracked imported Environmentally Sound Technologies (current United States dollars)"
     },
     {
       "path": "17-18-3/data.csv",
@@ -2310,7 +2310,7 @@
           }
         ]
       },
-      "title": "17-18-3"
+      "title": "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)"
     },
     {
       "path": "1-3-1/data.csv",
@@ -2354,7 +2354,7 @@
           }
         ]
       },
-      "title": "16-7-1"
+      "title": "Proportions of positions in the public service compared to national distributions (ratio)"
     },
     {
       "path": "10-4-1/data.csv",
@@ -2376,7 +2376,7 @@
           }
         ]
       },
-      "title": "10-4-1"
+      "title": "Labour share of GDP (%)"
     },
     {
       "path": "5-5-1/data.csv",
@@ -2420,7 +2420,7 @@
           }
         ]
       },
-      "title": "17-5-1"
+      "title": "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs (1 = YES, 0 = NO)"
     },
     {
       "path": "14-99-1/data.csv",
@@ -2442,7 +2442,7 @@
           }
         ]
       },
-      "title": "14-99-1"
+      "title": "[Indice de synthese] Score composite ODD 14 : Vie aquatique"
     },
     {
       "path": "17-15-1/data.csv",
@@ -2464,7 +2464,7 @@
           }
         ]
       },
-      "title": "17-15-1"
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%)"
     },
     {
       "path": "15-8-1/data.csv",
@@ -2486,7 +2486,7 @@
           }
         ]
       },
-      "title": "15-8-1"
+      "title": "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)"
     },
     {
       "path": "9-5-1/data.csv",
@@ -2662,7 +2662,7 @@
           }
         ]
       },
-      "title": "17-9-1"
+      "title": "Total official development assistance (gross disbursement) for technical cooperation (millions of 2023 United States dollars)"
     },
     {
       "path": "2-2-4/data.csv",
@@ -2728,7 +2728,7 @@
           }
         ]
       },
-      "title": "11-3-1"
+      "title": "Ratio of land consumption rate to population growth rate"
     },
     {
       "path": "7-1-1/data.csv",
@@ -2794,7 +2794,7 @@
           }
         ]
       },
-      "title": "16-6-2"
+      "title": "Proportion of population who say that overall they are satisfied with the quality of healthcare services (%)"
     },
     {
       "path": "12-4-2/data.csv",
@@ -2816,7 +2816,7 @@
           }
         ]
       },
-      "title": "12-4-2"
+      "title": "Total waste generation, by activity (Tonnes)"
     },
     {
       "path": "8-3-1/data.csv",
@@ -2860,7 +2860,7 @@
           }
         ]
       },
-      "title": "17-12-1"
+      "title": "Average tariff applied by developed countries, most-favored nation status, by type of product (%)"
     },
     {
       "path": "11-2-1/data.csv",
@@ -2882,7 +2882,7 @@
           }
         ]
       },
-      "title": "11-2-1"
+      "title": "Proportion of population that has convenient access to public transport (%)"
     },
     {
       "path": "11-6-1/data.csv",
@@ -2904,7 +2904,7 @@
           }
         ]
       },
-      "title": "11-6-1"
+      "title": "Municipal Solid Waste collection coverage, by cities (%)"
     },
     {
       "path": "17-16-1/data.csv",
@@ -2926,7 +2926,7 @@
           }
         ]
       },
-      "title": "17-16-1"
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = N"
     },
     {
       "path": "3-3-5/data.csv",
@@ -3058,7 +3058,7 @@
           }
         ]
       },
-      "title": "12-4-1"
+      "title": "Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals (%)"
     },
     {
       "path": "16-8-1/data.csv",
@@ -3080,7 +3080,7 @@
           }
         ]
       },
-      "title": "16-8-1"
+      "title": "Proportion of voting rights of developing countries in international organizations, by organization (%)"
     },
     {
       "path": "8-10-2/data.csv",
@@ -3124,7 +3124,7 @@
           }
         ]
       },
-      "title": "15-6-1"
+      "title": "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)"
     },
     {
       "path": "6-99-1/data.csv",
@@ -3234,7 +3234,7 @@
           }
         ]
       },
-      "title": "16-3-2"
+      "title": "Unsentenced detainees as a proportion of overall prison population (%)"
     },
     {
       "path": "15-4-1/data.csv",
@@ -3256,7 +3256,7 @@
           }
         ]
       },
-      "title": "15-4-1"
+      "title": "Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%)"
     },
     {
       "path": "11-7-1/data.csv",
@@ -3278,7 +3278,7 @@
           }
         ]
       },
-      "title": "11-7-1"
+      "title": "Average share of the built-up area of cities that is open space for public use for all (%)"
     },
     {
       "path": "3-1-1/data.csv",
@@ -3322,7 +3322,7 @@
           }
         ]
       },
-      "title": "13-1-1"
+      "title": "Number of people whose damaged dwellings were attributed to disasters (number)"
     },
     {
       "path": "5-99-1/data.csv",
@@ -3410,7 +3410,7 @@
           }
         ]
       },
-      "title": "12-2-2"
+      "title": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)"
     },
     {
       "path": "1-1-1/data.csv",
@@ -3476,7 +3476,7 @@
           }
         ]
       },
-      "title": "11-1-1"
+      "title": "Proportion of urban population living in slums (%)"
     },
     {
       "path": "3-9-3/data.csv",
@@ -3564,7 +3564,7 @@
           }
         ]
       },
-      "title": "12-6-1"
+      "title": "Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)"
     },
     {
       "path": "6-5-1/data.csv",
@@ -3608,7 +3608,7 @@
           }
         ]
       },
-      "title": "11-6-2"
+      "title": "Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)"
     },
     {
       "path": "9-3-2/data.csv",
@@ -3696,7 +3696,7 @@
           }
         ]
       },
-      "title": "10-7-4"
+      "title": "Number of refugees per 100,000 population, by country of origin (per 100,000 population)"
     },
     {
       "path": "3-2-2/data.csv",
