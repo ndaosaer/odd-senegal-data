@@ -191,8 +191,32 @@ news:
   category_links: false
 observation_attributes: []
 progress_status:
-  status_heading: ''
-  status_types: []
+  status_heading: 'Statut de progression'
+  status_help: 'Ou en sommes-nous par rapport aux cibles 2030 ?'
+  status_types:
+    - value: not_available
+      label: 'Donnees non disponibles'
+      alt: 'Donnees non disponibles'
+    - value: deterioration
+      label: 'Se degrade'
+      image: assets/img/progress/red-gauge.png
+      alt: 'Se degrade'
+    - value: limited_progress
+      label: 'Progres limites'
+      image: assets/img/progress/orange-gauge.png
+      alt: 'Progres limites'
+    - value: moderate_progress
+      label: 'Progres moderes'
+      image: assets/img/progress/yellow-gauge.png
+      alt: 'Progres moderes'
+    - value: substantial_progress
+      label: 'Progres substantiels'
+      image: assets/img/progress/green-gauge.png
+      alt: 'Progres substantiels'
+    - value: target_achieved
+      label: 'Cible atteinte'
+      image: assets/img/progress/blue-gauge.png
+      alt: 'Cible atteinte'
 progressive_web_app: {}
 proxy_indicators: {}
 remote_data_prefix: ''
