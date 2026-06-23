@@ -1,0 +1,12 @@
+indicator_name: Annual growth rate of real GDP per capita (%)
+national_indicator_description: Indicateur 8.1.1 rattache a l'ODD 8 (Travail decent
+  et croissance economique). 24 observations disponibles entre 2000 et 2023.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Annual growth rate of real GDP per capita (%)
+data_non_disaggregated: true

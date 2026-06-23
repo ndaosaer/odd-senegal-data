@@ -1,0 +1,14 @@
+indicator_name: Manufacturing value added (current United States dollars) as a proportion
+  of GDP (%)
+national_indicator_description: Indicateur 9.2.1 rattache a l'ODD 9 (Industrie, innovation
+  et infrastructure). 25 observations disponibles entre 2000 et 2024.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Manufacturing value added (current United States dollars) as a proportion
+  of GDP (%)
+data_non_disaggregated: true

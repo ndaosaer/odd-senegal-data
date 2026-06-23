@@ -1,0 +1,12 @@
+indicator_name: Death rate due to road traffic injuries, by sex (per 100,000 population)
+national_indicator_description: Indicateur 3.6.1 rattache a l'ODD 3 (Bonne sante et
+  bien-etre). 1 observations disponibles entre 2021 et 2021.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Death rate due to road traffic injuries, by sex (per 100,000 population)
+data_non_disaggregated: true

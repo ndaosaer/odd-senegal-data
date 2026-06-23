@@ -1,0 +1,14 @@
+indicator_name: 'Level of water stress: freshwater withdrawal as a proportion of available
+  freshwater resources (%)'
+national_indicator_description: Indicateur 6.4.2 rattache a l'ODD 6 (Eau propre et
+  assainissement). 23 observations disponibles entre 2000 et 2022.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: 'Level of water stress: freshwater withdrawal as a proportion of available
+  freshwater resources (%)'
+data_non_disaggregated: true

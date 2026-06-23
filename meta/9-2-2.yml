@@ -1,0 +1,14 @@
+indicator_name: Manufacturing employment as a proportion of total employment - 13th
+  ICLS (%)
+national_indicator_description: Indicateur 9.2.2 rattache a l'ODD 9 (Industrie, innovation
+  et infrastructure). 7 observations disponibles entre 2001 et 2022.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Manufacturing employment as a proportion of total employment - 13th ICLS
+  (%)
+data_non_disaggregated: true

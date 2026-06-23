@@ -1,0 +1,14 @@
+indicator_name: Proportion of women who make their own informed decisions regarding
+  contraceptive use (% of women aged 15-49 years)
+national_indicator_description: Indicateur 5.6.1 rattache a l'ODD 5 (Egalite des genres).
+  5 observations disponibles entre 2011 et 2023.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Proportion of women who make their own informed decisions regarding contraceptive
+  use (% of women ag
+data_non_disaggregated: true

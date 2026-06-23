@@ -1,0 +1,14 @@
+indicator_name: Completion rate, by sex, location, wealth quintile and education level
+  (%)
+national_indicator_description: Indicateur 4.1.2 rattache a l'ODD 4 (Education de
+  qualite). 11 observations disponibles entre 2000 et 2023.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Completion rate, by sex, location, wealth quintile and education level
+  (%)
+data_non_disaggregated: true

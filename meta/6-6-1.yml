@@ -1,0 +1,12 @@
+indicator_name: Lakes and rivers permanent water area (square kilometres)
+national_indicator_description: Indicateur 6.6.1 rattache a l'ODD 6 (Eau propre et
+  assainissement). 25 observations disponibles entre 2000 et 2024.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Lakes and rivers permanent water area (square kilometres)
+data_non_disaggregated: true

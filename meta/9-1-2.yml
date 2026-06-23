@@ -1,0 +1,14 @@
+indicator_name: Container port traffic, maritime transport (twenty-foot equivalent
+  units - TEUs)
+national_indicator_description: Indicateur 9.1.2 rattache a l'ODD 9 (Industrie, innovation
+  et infrastructure). 13 observations disponibles entre 2010 et 2022.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Container port traffic, maritime transport (twenty-foot equivalent units
+  - TEUs)
+data_non_disaggregated: true

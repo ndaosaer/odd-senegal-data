@@ -1,0 +1,14 @@
+indicator_name: '[ILO] Proportion of population above statutory pensionable age receiving
+  a pension, by sex (%)'
+national_indicator_description: Indicateur 1.3.1 rattache a l'ODD 1 (Pas de pauvrete).
+  9 observations disponibles entre 2004 et 2022.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: '[ILO] Proportion of population above statutory pensionable age receiving
+  a pension, by sex (%)'
+data_non_disaggregated: true

@@ -1,0 +1,13 @@
+indicator_name: Domestic material consumption per capita, by type of raw material
+  (tonnes)
+national_indicator_description: Indicateur 8.4.2 rattache a l'ODD 8 (Travail decent
+  et croissance economique). 25 observations disponibles entre 2000 et 2024.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Domestic material consumption per capita, by type of raw material (tonnes)
+data_non_disaggregated: true

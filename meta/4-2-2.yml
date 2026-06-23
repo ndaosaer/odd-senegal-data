@@ -1,0 +1,14 @@
+indicator_name: Participation rate in organized learning (one year before the official
+  primary entry age), by sex (%)
+national_indicator_description: Indicateur 4.2.2 rattache a l'ODD 4 (Education de
+  qualite). 20 observations disponibles entre 2000 et 2024.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Participation rate in organized learning (one year before the official
+  primary entry age), by sex (%
+data_non_disaggregated: true

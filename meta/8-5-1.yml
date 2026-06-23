@@ -1,0 +1,13 @@
+indicator_name: Average hourly earnings of employees by sex and occupation (local
+  currency)
+national_indicator_description: Indicateur 8.5.1 rattache a l'ODD 8 (Travail decent
+  et croissance economique). 1 observations disponibles entre 2019 et 2019.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: ONU SDGAPI
+source_active_1: true
+computation_units: ''
+graph_type: line
+graph_title: Average hourly earnings of employees by sex and occupation (local currency)
+data_non_disaggregated: true
