@@ -216,7 +216,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 8 : Travail decent et croissance economique"
+      "title": "8-1-1"
     },
     {
       "path": "1-99-1/data.csv",
@@ -456,7 +456,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 10 : Inegalites reduites"
+      "title": "10-1-1"
     },
     {
       "path": "17-18-1/data.csv",
@@ -1080,7 +1080,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 6 : Eau propre et assainissement"
+      "title": "6-1-1"
     },
     {
       "path": "5-2-1/data.csv",
@@ -1560,7 +1560,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 14 : Vie aquatique"
+      "title": "14-1-1"
     },
     {
       "path": "16-99-1/data.csv",
@@ -2064,7 +2064,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 12 : Consommation et production responsables"
+      "title": "12-1-1"
     },
     {
       "path": "1-4-2/data.csv",
@@ -2376,7 +2376,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 15 : Vie terrestre"
+      "title": "15-1-1"
     },
     {
       "path": "2-4-1/data.csv",
@@ -2424,7 +2424,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 17 : Partenariats pour la realisation des objectifs"
+      "title": "17-1-1"
     },
     {
       "path": "5-6-1/data.csv",
@@ -2880,7 +2880,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 4 : Education de qualite"
+      "title": "4-1-1"
     },
     {
       "path": "17-9-1/data.csv",
@@ -3000,7 +3000,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 7 : Energie propre et abordable"
+      "title": "7-1-1"
     },
     {
       "path": "2-3-1/data.csv",
@@ -3504,7 +3504,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 2 : Faim zero"
+      "title": "2-1-1"
     },
     {
       "path": "16-3-2/data.csv",
@@ -3600,7 +3600,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 3 : Bonne sante et bien-etre"
+      "title": "3-1-1"
     },
     {
       "path": "13-1-1/data.csv",
@@ -3624,7 +3624,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 13 : Mesures relatives a la lutte contre les changements climatiques"
+      "title": "13-1-1"
     },
     {
       "path": "5-99-1/data.csv",
@@ -3744,7 +3744,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 1 : Pas de pauvrete"
+      "title": "1-1-1"
     },
     {
       "path": "3-8-1/data.csv",
@@ -3792,7 +3792,7 @@
           }
         ]
       },
-      "title": "Score composite ODD 11 : Villes et communautes durables"
+      "title": "11-1-1"
     },
     {
       "path": "3-9-3/data.csv",
@@ -4201,78 +4201,6 @@
         ]
       },
       "title": "8-2-1"
-    },
-    {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Année"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Score composite ODD 5 : Egalite des genres"
-    },
-    {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Année"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Score composite ODD 9 : Industrie, innovation et infrastructure"
-    },
-    {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Année"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Score composite ODD 16 : Paix, justice et institutions efficaces"
     }
   ]
 }
