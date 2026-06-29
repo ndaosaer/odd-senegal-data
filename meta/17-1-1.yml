@@ -1,0 +1,12 @@
+indicator_name: Total government revenue (budgetary central government) as a proportion
+  of GDP (%)
+national_indicator_description: Indicateur officiel 17.1.1, cible 17.1, ODD 17. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: IMF
+source_active_1: true
+graph_type: line
+graph_title: Total government revenue (budgetary central government) as a proportion
+  of GDP (%)

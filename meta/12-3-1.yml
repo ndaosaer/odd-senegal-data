@@ -1,0 +1,10 @@
+indicator_name: Food waste (Tonnes)
+national_indicator_description: Indicateur officiel 12.3.1, cible 12.3, ODD 12. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: Food Waste Index Report 2021
+source_active_1: true
+graph_type: line
+graph_title: Food waste (Tonnes)

@@ -1,0 +1,12 @@
+indicator_name: Dollar value of all resources made available to strengthen statistical
+  capacity in developing countries (current United States dollars)
+national_indicator_description: Indicateur officiel 17.19.1, cible 17.19, ODD 17.
+  Donnees extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: 2025 Partner Report on Support to Statistics (PRESS)
+source_active_1: true
+graph_type: line
+graph_title: Dollar value of all resources made available to strengthen statistical
+  capacity in developing countr
