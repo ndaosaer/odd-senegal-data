@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%)",
+                "Proportion of transboundary aquifers with an operational arrangement for water cooperation (%)",
+                "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "6-5-2",
-  "title": "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%)"
+  "title": "6-5-2"
 }

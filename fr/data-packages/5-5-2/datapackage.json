@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women in managerial positions - 13th ICLS (%)",
+                "Proportion of women in senior and middle management positions - 13th ICLS (%)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-2",
-  "title": "Proportion of women in senior and middle management positions - 13th ICLS (%)"
+  "title": "5-5-2"
 }

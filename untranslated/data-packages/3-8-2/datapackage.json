@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the population with positive out-of-pocket household expenditure on health exceeding 40% of household discretionary budget, by location, quintile, type of household and characteristics o",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +34,5 @@
   ],
   "profile": "data-package",
   "name": "3-8-2",
-  "title": "Proportion of the population with positive out-of-pocket household expenditure on health exceeding 40% of household discretionary budget, by location, quintile, type of household and characteristics o"
+  "title": "3-8-2"
 }

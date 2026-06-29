@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of schools with basic handwashing facilities, by education level (%) - LOWSEC",
+                "Proportion of schools with basic handwashing facilities, by education level (%) - PRIMAR",
+                "Proportion of schools with basic handwashing facilities, by education level (%) - UPPSEC",
+                "Proportion of schools with access to computers for pedagogical purposes, by education level (%) - LOWSEC",
+                "Proportion of schools with access to computers for pedagogical purposes, by education level (%) - PRIMAR",
+                "Proportion of schools with access to computers for pedagogical purposes, by education level (%) - SECOND",
+                "Proportion of schools with access to computers for pedagogical purposes, by education level (%) - UPPSEC",
+                "Proportion of schools with access to electricity, by education level (%) - LOWSEC",
+                "Proportion of schools with access to electricity, by education level (%) - PRIMAR",
+                "Proportion of schools with access to electricity, by education level (%) - UPPSEC",
+                "Proportion of schools with access to basic drinking water, by education level (%) - LOWSEC",
+                "Proportion of schools with access to basic drinking water, by education level (%) - PRIMAR",
+                "Proportion of schools with access to basic drinking water, by education level (%) - UPPSEC",
+                "Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - LOWSEC",
+                "Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - PRIMAR",
+                "Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - SECOND",
+                "Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - UPPSEC",
+                "Proportion of schools with access to single-sex basic sanitation, by education level (%) - LOWSEC",
+                "Proportion of schools with access to single-sex basic sanitation, by education level (%) - PRIMAR",
+                "Proportion of schools with access to single-sex basic sanitation, by education level (%) - UPPSEC",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - LOWSEC",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - PRIMAR",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - UPPSEC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-a-1",
+  "title": "4-a-1"
+}

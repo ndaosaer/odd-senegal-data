@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of teachers with the minimum required qualifications, by education level and sex (%) - LOWSEC",
+                "Proportion of teachers with the minimum required qualifications, by education level and sex (%) - PREPRI",
+                "Proportion of teachers with the minimum required qualifications, by education level and sex (%) - PRIMAR",
+                "Proportion of teachers with the minimum required qualifications, by education level and sex (%) - SECOND",
+                "Proportion of teachers with the minimum required qualifications, by education level and sex (%) - UPPSEC",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-1",
+  "title": "4-c-1"
+}

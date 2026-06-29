@@ -12,8 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of local breeds (not extinct) (number)",
+                "Number of transboundary breeds (not extinct) (number)",
+                "Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)",
+                "Proportion of transboundary breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)",
+                "Number of local breeds with unknown risk status (number)",
+                "Number of transboundary breeds with unknown risk status (number)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "2-5-2",
-  "title": "Number of transboundary breeds with unknown risk status (number)"
+  "title": "2-5-2"
 }

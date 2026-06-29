@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Infant mortality rate (deaths per 1,000 live births)",
+                "Infant deaths (number)",
+                "Under-five mortality rate, by sex (deaths per 1,000 live births)",
+                "Under-five deaths (number)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Infant deaths (number)"
+  "title": "3-2-1"
 }

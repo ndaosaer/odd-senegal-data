@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women aged 20-24 years who were married or in a union before age 15 (%)",
+                "Proportion of women aged 20-24 years who were married or in a union before age 18 (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "5-3-1",
-  "title": "Proportion of women aged 20-24 years who were married or in a union before age 18 (%)"
+  "title": "5-3-1"
 }

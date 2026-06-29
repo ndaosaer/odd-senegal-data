@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) - 10-14",
+                "Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) - 15-19",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-7-2",
-  "title": "Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)"
+  "title": "3-7-2"
 }

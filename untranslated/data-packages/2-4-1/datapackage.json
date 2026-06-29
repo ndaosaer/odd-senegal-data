@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "[PROXY] Progress toward productive and sustainable agriculture, current status score",
+                "[PROXY] Progress toward productive and sustainable agriculture, trend score",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-1",
-  "title": "[PROXY] Progress toward productive and sustainable agriculture, current status score"
+  "title": "2-4-1"
 }

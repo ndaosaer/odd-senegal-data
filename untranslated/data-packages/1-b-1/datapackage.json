@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of government spending which benefits the poorest 20 percent (%)",
+                "Proportion of government spending on education which benefits the poorest 20 percent (%)",
+                "Proportion of government spending on health which benefits the poorest 20 percent (%)",
+                "Proportion of government spending on social transfers which benefits the poorest 20 percent (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-b-1",
+  "title": "1-b-1"
+}

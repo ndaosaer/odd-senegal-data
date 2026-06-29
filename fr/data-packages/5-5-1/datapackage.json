@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of elected seats held by women in deliberative bodies of local government (%)",
+                "Proportion of seats held by women in national parliaments (% of total number of seats)",
+                "Number of seats held by women in national parliaments (number)",
+                "Current number of seats in national parliaments (number)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +40,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-1",
-  "title": "Proportion of seats held by women in national parliaments (% of total number of seats)"
+  "title": "5-5-1"
 }

@@ -12,7 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",
+                "[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",
+                "[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",
+                "[World Bank] Proportion of population covered by labour market programs (%)",
+                "[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)",
+                "[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",
+                "[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",
+                "[World Bank] Proportion of population covered by social assistance programs (%)",
+                "[World Bank] Proportion of population covered by social insurance programs (%)",
+                "[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",
+                "[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",
+                "[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "1-3-1",
-  "title": "[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)"
+  "title": "1-3-1"
 }

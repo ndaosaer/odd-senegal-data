@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Participation rate in formal and non-formal education and training, by sex (%) - 15-24",
+                "Participation rate in formal and non-formal education and training, by sex (%) - 15-64",
+                "Participation rate in formal and non-formal education and training, by sex (%) - 25-54",
+                "Participation rate in formal and non-formal education and training, by sex (%) - 55-64",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1",
-  "title": "Participation rate in formal and non-formal education and training, by sex (%)"
+  "title": "4-3-1"
 }

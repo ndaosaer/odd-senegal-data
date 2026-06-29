@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)",
+                "Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years)",
+                "Proportion of women who make their own informed decisions regarding reproductive health care (% of women aged 15-49 years)",
+                "Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "5-6-1",
-  "title": "Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years)"
+  "title": "5-6-1"
 }

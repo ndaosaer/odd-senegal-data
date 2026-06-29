@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2017 international $)",
+                "Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2017 international $)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-1",
-  "title": "Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2017 international $)"
+  "title": "2-3-1"
 }

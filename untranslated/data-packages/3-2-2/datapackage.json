@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Neonatal mortality rate (deaths per 1,000 live births)",
+                "Neonatal deaths (number)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-2",
-  "title": "Neonatal mortality rate (deaths per 1,000 live births)"
+  "title": "3-2-2"
 }

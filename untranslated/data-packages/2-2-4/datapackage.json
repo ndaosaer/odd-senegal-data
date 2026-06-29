@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of minimum dietary diversity among children aged 6-23 months (%)",
+                "Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-4",
-  "title": "Prevalence of minimum dietary diversity among children aged 6-23 months (%)"
+  "title": "2-2-4"
 }

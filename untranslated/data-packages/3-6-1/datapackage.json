@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Death rate due to road traffic injuries, by sex (per 100,000 population)",
+                "Number of deaths rate due to road traffic injuries",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "3-6-1",
-  "title": "Death rate due to road traffic injuries, by sex (per 100,000 population)"
+  "title": "3-6-1"
 }

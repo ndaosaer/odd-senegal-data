@@ -12,7 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total wastewater generated (million m3/year)",
+                "Total wastewater treated (million m3/year)",
+                "Proportion of wastewater treated, by activity and location (%)",
+                "Proportion of wastewater safely treated, by activity and location (%)",
+                "Total wastewater safely treated (million m3/year)",
+                "Proportion of safely treated domestic wastewater flows (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "6-3-1",
-  "title": "Proportion of safely treated domestic wastewater flows (%)"
+  "title": "6-3-1"
 }

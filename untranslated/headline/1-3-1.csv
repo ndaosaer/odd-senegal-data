@@ -1,1 +1,35 @@
-Year,Value
+Year,Value,Series
+2019,20.0,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)"
+2022,19.9,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)"
+2015,4.0,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)"
+2019,1.0,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)"
+2022,27.1,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)"
+2022,5.4,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)"
+2011,4.0,[World Bank] Proportion of population covered by labour market programs (%)
+2011,2.0,[World Bank] Proportion of population covered by labour market programs (%)
+2018,0.9,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)
+2019,3.0,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)
+2004,10.0,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)"
+2010,23.5,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)"
+2019,29.9,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)"
+2022,25.3,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)"
+2019,32.0,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)"
+2022,8.3,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)"
+2011,5.0,[World Bank] Proportion of population covered by social assistance programs (%)
+2011,8.0,[World Bank] Proportion of population covered by social assistance programs (%)
+2018,32.0,[World Bank] Proportion of population covered by social assistance programs (%)
+2018,23.0,[World Bank] Proportion of population covered by social assistance programs (%)
+2021,27.0,[World Bank] Proportion of population covered by social assistance programs (%)
+2021,39.0,[World Bank] Proportion of population covered by social assistance programs (%)
+2011,1.0,[World Bank] Proportion of population covered by social insurance programs (%)
+2011,8.0,[World Bank] Proportion of population covered by social insurance programs (%)
+2018,9.0,[World Bank] Proportion of population covered by social insurance programs (%)
+2018,3.0,[World Bank] Proportion of population covered by social insurance programs (%)
+2021,1.0,[World Bank] Proportion of population covered by social insurance programs (%)
+2021,9.0,[World Bank] Proportion of population covered by social insurance programs (%)
+2019,0.0,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)"
+2020,0.0,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)"
+2022,0.0,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)"
+2019,17.0,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)"
+2022,15.4,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)"
+2019,10.0,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)"

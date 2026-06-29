@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-3",
-  "title": "Malaria incidence per 1,000 population at risk (per 1,000 population)"
+  "title": "3-3-3"
 }

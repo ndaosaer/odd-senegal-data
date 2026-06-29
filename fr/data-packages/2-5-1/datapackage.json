@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of local breeds kept in the country",
+                "Number of transboundary breeds (including extinct ones)",
+                "Number of local breeds for which sufficient genetic resources are stored for reconstitution",
+                "Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution",
+                "Plant genetic resources accessions stored ex situ (number)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +41,5 @@
   ],
   "profile": "data-package",
   "name": "2-5-1",
-  "title": "Number of transboundary breeds (including extinct ones)"
+  "title": "2-5-1"
 }

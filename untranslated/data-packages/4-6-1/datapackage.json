@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Youth/adult literacy rate (%) - 15-24",
+                "Youth/adult literacy rate (%) - 15-99",
+                "Youth/adult literacy rate (%) - 25-64",
+                "Youth/adult literacy rate (%) - 65-99",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "4-6-1",
-  "title": "Youth/adult literacy rate (%)"
+  "title": "4-6-1"
 }
