@@ -1,0 +1,11 @@
+indicator_name: Average hourly earnings of employees by sex and occupation (local
+  currency)
+national_indicator_description: Indicateur officiel 8.5.1, cible 8.5, ODD 8. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: LFS - National Employment Survey
+source_active_1: true
+graph_type: line
+graph_title: Average hourly earnings of employees by sex and occupation (local currency)

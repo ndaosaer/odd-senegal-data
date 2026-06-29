@@ -1,0 +1,12 @@
+indicator_name: Energy intensity level of primary energy (megajoules per constant
+  2021 purchasing power parity GDP)
+national_indicator_description: Indicateur officiel 7.3.1, cible 7.3, ODD 7. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: IEA (2025), World Energy Balances
+source_active_1: true
+graph_type: line
+graph_title: Energy intensity level of primary energy (megajoules per constant 2021
+  purchasing power parity GDP)

@@ -1,0 +1,12 @@
+indicator_name: Average remittance costs of sending $200 to a receiving country as
+  a proportion of the amount remitted (%)
+national_indicator_description: Indicateur officiel 10.c.1, cible 10.c, ODD 10. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: World Development Indicators database, World Bank.
+source_active_1: true
+graph_type: line
+graph_title: Average remittance costs of sending $200 to a receiving country as a
+  proportion of the amount remitt
