@@ -1,0 +1,95 @@
+Year,Series,Value
+2005,Number of people affected by disaster (number),1764.0
+2006,Number of people affected by disaster (number),795.0
+2007,Number of people affected by disaster (number),589.0
+2008,Number of people affected by disaster (number),164.0
+2009,Number of people affected by disaster (number),791.0
+2010,Number of people affected by disaster (number),791.0
+2011,Number of people affected by disaster (number),1150.0
+2012,Number of people affected by disaster (number),553.0
+2013,Number of people affected by disaster (number),747.0
+2014,Number of people affected by disaster (number),837.0
+2015,Number of people affected by disaster (number),3.0
+2005,"Number of directly affected persons attributed to disasters per 100,000 population (number)",15.7003
+2006,"Number of directly affected persons attributed to disasters per 100,000 population (number)",6.913
+2007,"Number of directly affected persons attributed to disasters per 100,000 population (number)",5.0041
+2008,"Number of directly affected persons attributed to disasters per 100,000 population (number)",1.3611
+2009,"Number of directly affected persons attributed to disasters per 100,000 population (number)",6.4114
+2010,"Number of directly affected persons attributed to disasters per 100,000 population (number)",6.2602
+2011,"Number of directly affected persons attributed to disasters per 100,000 population (number)",8.8742
+2012,"Number of directly affected persons attributed to disasters per 100,000 population (number)",4.1546
+2013,"Number of directly affected persons attributed to disasters per 100,000 population (number)",5.4482
+2014,"Number of directly affected persons attributed to disasters per 100,000 population (number)",5.9143
+2015,"Number of directly affected persons attributed to disasters per 100,000 population (number)",0.0206
+2005,Number of injured or ill people attributed to disasters (number),1764.0
+2006,Number of injured or ill people attributed to disasters (number),795.0
+2007,Number of injured or ill people attributed to disasters (number),589.0
+2008,Number of injured or ill people attributed to disasters (number),164.0
+2009,Number of injured or ill people attributed to disasters (number),791.0
+2010,Number of injured or ill people attributed to disasters (number),791.0
+2011,Number of injured or ill people attributed to disasters (number),1150.0
+2012,Number of injured or ill people attributed to disasters (number),553.0
+2013,Number of injured or ill people attributed to disasters (number),747.0
+2014,Number of injured or ill people attributed to disasters (number),837.0
+2015,Number of injured or ill people attributed to disasters (number),3.0
+2005,Number of missing persons due to disaster (number),4.0
+2006,Number of missing persons due to disaster (number),22.0
+2009,Number of missing persons due to disaster (number),4.0
+2010,Number of missing persons due to disaster (number),2.0
+2011,Number of missing persons due to disaster (number),4.0
+2012,Number of missing persons due to disaster (number),8.0
+2013,Number of missing persons due to disaster (number),73.0
+2014,Number of missing persons due to disaster (number),43.0
+2015,Number of missing persons due to disaster (number),3.0
+2005,Number of deaths and missing persons attributed to disasters (number),81.0
+2006,Number of deaths and missing persons attributed to disasters (number),75.0
+2007,Number of deaths and missing persons attributed to disasters (number),113.0
+2008,Number of deaths and missing persons attributed to disasters (number),44.0
+2009,Number of deaths and missing persons attributed to disasters (number),73.0
+2010,Number of deaths and missing persons attributed to disasters (number),217.0
+2011,Number of deaths and missing persons attributed to disasters (number),197.0
+2012,Number of deaths and missing persons attributed to disasters (number),299.0
+2013,Number of deaths and missing persons attributed to disasters (number),683.0
+2014,Number of deaths and missing persons attributed to disasters (number),600.0
+2015,Number of deaths and missing persons attributed to disasters (number),4.0
+2005,Number of deaths due to disaster (number),77.0
+2006,Number of deaths due to disaster (number),53.0
+2007,Number of deaths due to disaster (number),113.0
+2008,Number of deaths due to disaster (number),44.0
+2009,Number of deaths due to disaster (number),69.0
+2010,Number of deaths due to disaster (number),215.0
+2011,Number of deaths due to disaster (number),193.0
+2012,Number of deaths due to disaster (number),291.0
+2013,Number of deaths due to disaster (number),610.0
+2014,Number of deaths due to disaster (number),557.0
+2015,Number of deaths due to disaster (number),1.0
+2005,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",0.7209
+2006,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",0.6522
+2007,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",0.96
+2008,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",0.3652
+2009,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",0.5917
+2010,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",1.7174
+2011,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",1.5202
+2012,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",2.2463
+2013,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",4.9815
+2014,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",4.2397
+2015,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",0.0274
+2005,Number of people whose damaged dwellings were attributed to disasters (number),12996.0
+2006,Number of people whose damaged dwellings were attributed to disasters (number),200.0
+2007,Number of people whose damaged dwellings were attributed to disasters (number),776.0
+2008,Number of people whose damaged dwellings were attributed to disasters (number),100148.0
+2009,Number of people whose damaged dwellings were attributed to disasters (number),112236.0
+2010,Number of people whose damaged dwellings were attributed to disasters (number),3028.0
+2011,Number of people whose damaged dwellings were attributed to disasters (number),1580.0
+2012,Number of people whose damaged dwellings were attributed to disasters (number),2328.0
+2013,Number of people whose damaged dwellings were attributed to disasters (number),38580.0
+2014,Number of people whose damaged dwellings were attributed to disasters (number),7492.0
+2005,Number of people whose destroyed dwellings were attributed to disasters (number),4.0
+2006,Number of people whose destroyed dwellings were attributed to disasters (number),36.0
+2008,Number of people whose destroyed dwellings were attributed to disasters (number),4.0
+2009,Number of people whose destroyed dwellings were attributed to disasters (number),4.0
+2010,Number of people whose destroyed dwellings were attributed to disasters (number),220.0
+2011,Number of people whose destroyed dwellings were attributed to disasters (number),128.0
+2012,Number of people whose destroyed dwellings were attributed to disasters (number),60.0
+2013,Number of people whose destroyed dwellings were attributed to disasters (number),1044.0
+2014,Number of people whose destroyed dwellings were attributed to disasters (number),328.0
