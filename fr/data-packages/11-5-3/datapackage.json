@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of disruptions to basic services attributed to disasters (number)",
+                "Number of damaged critical infrastructure attributed to disasters (number)",
+                "Number of destroyed or damaged educational facilities attributed to disasters (number)",
+                "Number of disruptions to educational services attributed to disasters (number)",
+                "Number of destroyed or damaged health facilities attributed to disasters (number)",
+                "Number of disruptions to health services attributed to disasters (number)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-3",
+  "title": "11-5-3"
+}

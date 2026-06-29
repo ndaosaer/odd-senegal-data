@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%)",
+                "Average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%)",
+                "SmaRT average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%)",
+                "Average remittance costs of sending $200 for a sending country as a proportion of the amount remitted (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-c-1",
+  "title": "10-c-1"
+}
