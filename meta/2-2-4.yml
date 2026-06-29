@@ -1,0 +1,13 @@
+indicator_name: Prevalence of minimum dietary diversity among children aged 6-23 months
+  (%)
+national_indicator_description: Indicateur officiel 2.2.4, cible 2.2, ODD 2. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: UNICEF Global Infant and Young Child Feeding Databases  December
+  2025. Sénégal   Enquête Démographique et  de Santé Continue (EDS Continue) 2023
+source_active_1: true
+graph_type: line
+graph_title: Prevalence of minimum dietary diversity among children aged 6-23 months
+  (%)

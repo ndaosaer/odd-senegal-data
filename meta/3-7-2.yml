@@ -1,0 +1,10 @@
+indicator_name: Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)
+national_indicator_description: Indicateur officiel 3.7.2, cible 3.7, ODD 3. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: Senegal 2015 Demographic and Health Survey
+source_active_1: true
+graph_type: line
+graph_title: Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)
