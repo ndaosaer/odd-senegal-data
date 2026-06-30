@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-c-1",
-  "title": "Health worker density, by type of occupation (per 10,000 population)"
+  "title": "3-c-1"
 }

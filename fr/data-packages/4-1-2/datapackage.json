@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Completion rate, by sex, location, wealth quintile and education level (%) - BOTHSEX",
+                "Completion rate, by sex, location, wealth quintile and education level (%) - FEMALE",
+                "Completion rate, by sex, location, wealth quintile and education level (%) - MALE",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-2",
-  "title": "Completion rate, by sex, location, wealth quintile and education level (%)"
+  "title": "4-1-2"
 }

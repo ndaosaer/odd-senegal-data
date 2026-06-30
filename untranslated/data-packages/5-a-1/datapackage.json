@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)",
+                "Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "5-a-1",
-  "title": "Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)"
+  "title": "5-a-1"
 }

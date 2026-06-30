@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",
+                "Indicator of Food Price Anomalies (IFPA), by type of product",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "2-c-1",
-  "title": "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index"
+  "title": "2-c-1"
 }

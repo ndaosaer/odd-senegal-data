@@ -1,1 +1,101 @@
-Year,Value
+Year,Series,Value
+2000,"Infant mortality rate (deaths per 1,000 live births)",73.9503
+2001,"Infant mortality rate (deaths per 1,000 live births)",70.5899
+2002,"Infant mortality rate (deaths per 1,000 live births)",66.3965
+2003,"Infant mortality rate (deaths per 1,000 live births)",61.8976
+2004,"Infant mortality rate (deaths per 1,000 live births)",57.5316
+2005,"Infant mortality rate (deaths per 1,000 live births)",53.535
+2006,"Infant mortality rate (deaths per 1,000 live births)",50.1031
+2007,"Infant mortality rate (deaths per 1,000 live births)",47.2543
+2008,"Infant mortality rate (deaths per 1,000 live births)",44.9038
+2009,"Infant mortality rate (deaths per 1,000 live births)",43.0566
+2010,"Infant mortality rate (deaths per 1,000 live births)",41.5234
+2011,"Infant mortality rate (deaths per 1,000 live births)",40.3027
+2012,"Infant mortality rate (deaths per 1,000 live births)",39.2914
+2013,"Infant mortality rate (deaths per 1,000 live births)",38.4728
+2014,"Infant mortality rate (deaths per 1,000 live births)",37.8304
+2015,"Infant mortality rate (deaths per 1,000 live births)",37.3036
+2016,"Infant mortality rate (deaths per 1,000 live births)",36.8254
+2017,"Infant mortality rate (deaths per 1,000 live births)",36.3101
+2018,"Infant mortality rate (deaths per 1,000 live births)",35.65
+2019,"Infant mortality rate (deaths per 1,000 live births)",34.7805
+2020,"Infant mortality rate (deaths per 1,000 live births)",33.7357
+2021,"Infant mortality rate (deaths per 1,000 live births)",32.5272
+2022,"Infant mortality rate (deaths per 1,000 live births)",31.2484
+2023,"Infant mortality rate (deaths per 1,000 live births)",30.0452
+2024,"Infant mortality rate (deaths per 1,000 live births)",28.8856
+2000,Infant deaths (number),28362.0
+2001,Infant deaths (number),27496.0
+2002,Infant deaths (number),26290.0
+2003,Infant deaths (number),25073.0
+2004,Infant deaths (number),23803.0
+2005,Infant deaths (number),22486.0
+2006,Infant deaths (number),21331.0
+2007,Infant deaths (number),20410.0
+2008,Infant deaths (number),19802.0
+2009,Infant deaths (number),19450.0
+2010,Infant deaths (number),19192.0
+2011,Infant deaths (number),19124.0
+2012,Infant deaths (number),19212.0
+2013,Infant deaths (number),19179.0
+2014,Infant deaths (number),18905.0
+2015,Infant deaths (number),18640.0
+2016,Infant deaths (number),18523.0
+2017,Infant deaths (number),18335.0
+2018,Infant deaths (number),17900.0
+2019,Infant deaths (number),17285.0
+2020,Infant deaths (number),16768.0
+2021,Infant deaths (number),16405.0
+2022,Infant deaths (number),16034.0
+2023,Infant deaths (number),15724.0
+2024,Infant deaths (number),15406.0
+2000,"Under-five mortality rate, by sex (deaths per 1,000 live births)",128.8698
+2001,"Under-five mortality rate, by sex (deaths per 1,000 live births)",121.7238
+2002,"Under-five mortality rate, by sex (deaths per 1,000 live births)",113.1532
+2003,"Under-five mortality rate, by sex (deaths per 1,000 live births)",104.1581
+2004,"Under-five mortality rate, by sex (deaths per 1,000 live births)",95.5059
+2005,"Under-five mortality rate, by sex (deaths per 1,000 live births)",87.604
+2006,"Under-five mortality rate, by sex (deaths per 1,000 live births)",80.7662
+2007,"Under-five mortality rate, by sex (deaths per 1,000 live births)",74.9672
+2008,"Under-five mortality rate, by sex (deaths per 1,000 live births)",70.1016
+2009,"Under-five mortality rate, by sex (deaths per 1,000 live births)",66.1144
+2010,"Under-five mortality rate, by sex (deaths per 1,000 live births)",62.7615
+2011,"Under-five mortality rate, by sex (deaths per 1,000 live births)",59.9598
+2012,"Under-five mortality rate, by sex (deaths per 1,000 live births)",57.5524
+2013,"Under-five mortality rate, by sex (deaths per 1,000 live births)",55.493
+2014,"Under-five mortality rate, by sex (deaths per 1,000 live births)",53.7429
+2015,"Under-five mortality rate, by sex (deaths per 1,000 live births)",52.2118
+2016,"Under-five mortality rate, by sex (deaths per 1,000 live births)",50.8187
+2017,"Under-five mortality rate, by sex (deaths per 1,000 live births)",49.4425
+2018,"Under-five mortality rate, by sex (deaths per 1,000 live births)",47.9205
+2019,"Under-five mortality rate, by sex (deaths per 1,000 live births)",46.1603
+2020,"Under-five mortality rate, by sex (deaths per 1,000 live births)",44.2422
+2021,"Under-five mortality rate, by sex (deaths per 1,000 live births)",42.1677
+2022,"Under-five mortality rate, by sex (deaths per 1,000 live births)",40.0953
+2023,"Under-five mortality rate, by sex (deaths per 1,000 live births)",38.242
+2024,"Under-five mortality rate, by sex (deaths per 1,000 live births)",36.5298
+2000,Under-five deaths (number),48314.0
+2001,Under-five deaths (number),46457.0
+2002,Under-five deaths (number),43965.0
+2003,Under-five deaths (number),41347.0
+2004,Under-five deaths (number),38700.0
+2005,Under-five deaths (number),36106.0
+2006,Under-five deaths (number),33828.0
+2007,Under-five deaths (number),31921.0
+2008,Under-five deaths (number),30449.0
+2009,Under-five deaths (number),29361.0
+2010,Under-five deaths (number),28497.0
+2011,Under-five deaths (number),27923.0
+2012,Under-five deaths (number),27586.0
+2013,Under-five deaths (number),27192.0
+2014,Under-five deaths (number),26587.0
+2015,Under-five deaths (number),25980.0
+2016,Under-five deaths (number),25501.0
+2017,Under-five deaths (number),24931.0
+2018,Under-five deaths (number),24082.0
+2019,Under-five deaths (number),23023.0
+2020,Under-five deaths (number),22056.0
+2021,Under-five deaths (number),21240.0
+2022,Under-five deaths (number),20468.0
+2023,Under-five deaths (number),19854.0
+2024,Under-five deaths (number),19308.0

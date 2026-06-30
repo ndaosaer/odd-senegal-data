@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children moderately or severely wasted (%)",
+                "Children moderately or severely wasted (thousands)",
+                "Proportion of children moderately or severely overweight (%)",
+                "Children moderately or severely overweight (thousands)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +40,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-2",
-  "title": "Proportion of children moderately or severely wasted (%)"
+  "title": "2-2-2"
 }

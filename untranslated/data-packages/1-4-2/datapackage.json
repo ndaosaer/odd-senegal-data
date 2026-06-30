@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)",
+                "Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)",
+                "Proportion of people with secure tenure rights to land out of total adult population, by sex (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +36,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-2",
-  "title": "Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)"
+  "title": "1-4-2"
 }

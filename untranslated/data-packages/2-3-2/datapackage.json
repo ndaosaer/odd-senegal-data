@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average income of large-scale food producers, PPP (constant 2017 international $)",
+                "Average income of small-scale food producers, PPP (constant 2017 international $)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-2",
-  "title": "Average income of large-scale food producers, PPP (constant 2017 international $)"
+  "title": "2-3-2"
 }

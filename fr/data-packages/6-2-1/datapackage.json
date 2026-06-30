@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population practicing open defecation, by urban/rural (%)",
+                "Proportion of population with basic handwashing facilities on premises, by urban/rural (%)",
+                "Proportion of population using safely managed sanitation services, by urban/rural (%)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1",
-  "title": "Proportion of population practicing open defecation, by urban/rural (%)"
+  "title": "6-2-1"
 }

@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",
+                "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",
+                "Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
+                "Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
+                "Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1",
-  "title": "Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)"
+  "title": "4-5-1"
 }

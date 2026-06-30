@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -24,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "5-b-1",
-  "title": "Proportion of individuals who own a mobile telephone, by sex (%)"
+  "title": "5-b-1"
 }

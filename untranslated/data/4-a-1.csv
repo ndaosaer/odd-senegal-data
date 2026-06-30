@@ -1,1 +1,101 @@
-Year,Value
+Year,Series,Value
+2023,"Proportion of schools with basic handwashing facilities, by education level (%) - LOWSEC",83.4761
+2024,"Proportion of schools with basic handwashing facilities, by education level (%) - LOWSEC",45.3528
+2019,"Proportion of schools with basic handwashing facilities, by education level (%) - PRIMAR",40.2591
+2021,"Proportion of schools with basic handwashing facilities, by education level (%) - PRIMAR",93.9933
+2022,"Proportion of schools with basic handwashing facilities, by education level (%) - PRIMAR",84.2857
+2023,"Proportion of schools with basic handwashing facilities, by education level (%) - PRIMAR",76.6149
+2024,"Proportion of schools with basic handwashing facilities, by education level (%) - PRIMAR",62.3916
+2024,"Proportion of schools with basic handwashing facilities, by education level (%) - UPPSEC",45.3333
+2019,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - LOWSEC",81.1603
+2020,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - LOWSEC",73.6049
+2021,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - LOWSEC",83.0148
+2022,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - LOWSEC",84.0259
+2023,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - LOWSEC",98.2864
+2024,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - LOWSEC",64.0876
+2019,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - PRIMAR",27.2648
+2020,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - PRIMAR",28.5035
+2021,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - PRIMAR",18.6097
+2022,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - PRIMAR",18.7625
+2023,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - PRIMAR",23.4211
+2024,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - PRIMAR",12.5391
+2019,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - SECOND",82.5316
+2020,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - SECOND",79.4046
+2021,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - SECOND",84.7331
+2022,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - SECOND",86.3681
+2024,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - SECOND",60.791
+2019,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - UPPSEC",84.8633
+2020,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - UPPSEC",89.1816
+2021,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - UPPSEC",87.5676
+2022,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - UPPSEC",90.0338
+2024,"Proportion of schools with access to computers for pedagogical purposes, by education level (%) - UPPSEC",49.5
+2020,"Proportion of schools with access to electricity, by education level (%) - LOWSEC",83.5379
+2021,"Proportion of schools with access to electricity, by education level (%) - LOWSEC",85.254
+2022,"Proportion of schools with access to electricity, by education level (%) - LOWSEC",85.429
+2024,"Proportion of schools with access to electricity, by education level (%) - LOWSEC",87.3479
+2014,"Proportion of schools with access to electricity, by education level (%) - PRIMAR",49.6007
+2019,"Proportion of schools with access to electricity, by education level (%) - PRIMAR",44.0975
+2020,"Proportion of schools with access to electricity, by education level (%) - PRIMAR",45.695
+2021,"Proportion of schools with access to electricity, by education level (%) - PRIMAR",48.6621
+2022,"Proportion of schools with access to electricity, by education level (%) - PRIMAR",50.8735
+2023,"Proportion of schools with access to electricity, by education level (%) - PRIMAR",53.4274
+2024,"Proportion of schools with access to electricity, by education level (%) - PRIMAR",56.6497
+2019,"Proportion of schools with access to electricity, by education level (%) - UPPSEC",91.4062
+2020,"Proportion of schools with access to electricity, by education level (%) - UPPSEC",95.0141
+2021,"Proportion of schools with access to electricity, by education level (%) - UPPSEC",96.3964
+2022,"Proportion of schools with access to electricity, by education level (%) - UPPSEC",96.1149
+2024,"Proportion of schools with access to electricity, by education level (%) - UPPSEC",96.3333
+2020,"Proportion of schools with access to basic drinking water, by education level (%) - LOWSEC",94.3638
+2021,"Proportion of schools with access to basic drinking water, by education level (%) - LOWSEC",95.03
+2022,"Proportion of schools with access to basic drinking water, by education level (%) - LOWSEC",94.7113
+2024,"Proportion of schools with access to basic drinking water, by education level (%) - LOWSEC",96.399
+2014,"Proportion of schools with access to basic drinking water, by education level (%) - PRIMAR",69.22
+2019,"Proportion of schools with access to basic drinking water, by education level (%) - PRIMAR",78.3042
+2020,"Proportion of schools with access to basic drinking water, by education level (%) - PRIMAR",79.5262
+2021,"Proportion of schools with access to basic drinking water, by education level (%) - PRIMAR",80.7635
+2022,"Proportion of schools with access to basic drinking water, by education level (%) - PRIMAR",82.657
+2023,"Proportion of schools with access to basic drinking water, by education level (%) - PRIMAR",80.2893
+2024,"Proportion of schools with access to basic drinking water, by education level (%) - PRIMAR",85.4754
+2019,"Proportion of schools with access to basic drinking water, by education level (%) - UPPSEC",94.3359
+2020,"Proportion of schools with access to basic drinking water, by education level (%) - UPPSEC",98.5889
+2021,"Proportion of schools with access to basic drinking water, by education level (%) - UPPSEC",97.2072
+2022,"Proportion of schools with access to basic drinking water, by education level (%) - UPPSEC",98.7331
+2024,"Proportion of schools with access to basic drinking water, by education level (%) - UPPSEC",99.1667
+2019,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - LOWSEC",42.3894
+2020,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - LOWSEC",34.2076
+2021,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - LOWSEC",60.9503
+2022,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - LOWSEC",64.7599
+2023,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - LOWSEC",79.9878
+2024,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - LOWSEC",64.8662
+2019,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - PRIMAR",12.9363
+2020,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - PRIMAR",13.757
+2021,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - PRIMAR",28.387
+2022,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - PRIMAR",26.5878
+2023,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - PRIMAR",26.6104
+2024,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - PRIMAR",27.7703
+2019,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - SECOND",46.3291
+2020,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - SECOND",44.0981
+2021,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - SECOND",64.2639
+2022,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - SECOND",68.2252
+2024,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - SECOND",67.2693
+2019,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - UPPSEC",53.0273
+2020,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - UPPSEC",60.7714
+2021,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - UPPSEC",69.7297
+2022,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - UPPSEC",73.6487
+2024,"Proportion of schools with access to the internet for pedagogical purposes, by education level (%) - UPPSEC",75.5
+2024,"Proportion of schools with access to single-sex basic sanitation, by education level (%) - LOWSEC",74.5499
+2021,"Proportion of schools with access to single-sex basic sanitation, by education level (%) - PRIMAR",63.3608
+2023,"Proportion of schools with access to single-sex basic sanitation, by education level (%) - PRIMAR",30.6621
+2024,"Proportion of schools with access to single-sex basic sanitation, by education level (%) - PRIMAR",64.1893
+2024,"Proportion of schools with access to single-sex basic sanitation, by education level (%) - UPPSEC",80.3333
+2020,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - LOWSEC",36.4397
+2021,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - LOWSEC",42.4358
+2023,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - LOWSEC",50.7956
+2024,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - LOWSEC",97.2749
+2020,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - PRIMAR",33.2889
+2021,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - PRIMAR",34.796
+2023,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - PRIMAR",35.6482
+2024,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - PRIMAR",96.4404
+2020,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - UPPSEC",42.0508
+2021,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - UPPSEC",29.5495
+2024,"Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%) - UPPSEC",98.0

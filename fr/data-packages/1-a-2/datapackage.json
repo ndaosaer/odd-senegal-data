@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total government spending on essential services, education [UIS methodology] (%)",
+                "Proportion of total government spending on essential services, education (%)",
+                "Proportion of total government spending on essential services, health (%)",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "1-a-2",
-  "title": "Proportion of total government spending on essential services, education [UIS methodology] (%)"
+  "title": "1-a-2"
 }

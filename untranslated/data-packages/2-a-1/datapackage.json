@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture value added share of GDP (%)",
+                "Agriculture orientation index for government expenditures",
+                "Agriculture share of Government Expenditure (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +36,5 @@
   ],
   "profile": "data-package",
   "name": "2-a-1",
-  "title": "Agriculture value added share of GDP (%)"
+  "title": "2-a-1"
 }

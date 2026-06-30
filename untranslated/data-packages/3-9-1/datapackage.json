@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population)",
+                "Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population)",
+                "Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100,000 population)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +36,5 @@
   ],
   "profile": "data-package",
   "name": "3-9-1",
-  "title": "Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population)"
+  "title": "3-9-1"
 }

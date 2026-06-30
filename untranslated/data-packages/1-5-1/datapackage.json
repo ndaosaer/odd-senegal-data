@@ -12,7 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of people affected by disaster (number)",
+                "Number of directly affected persons attributed to disasters per 100,000 population (number)",
+                "Number of injured or ill people attributed to disasters (number)",
+                "Number of missing persons due to disaster (number)",
+                "Number of deaths and missing persons attributed to disasters (number)",
+                "Number of deaths due to disaster (number)",
+                "Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+                "Number of people whose damaged dwellings were attributed to disasters (number)",
+                "Number of people whose destroyed dwellings were attributed to disasters (number)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "1-5-1",
-  "title": "Number of people affected by disaster (number)"
+  "title": "1-5-1"
 }

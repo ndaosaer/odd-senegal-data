@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "4-99-1",
-  "title": "[Indice de synthese] Score composite ODD 4 : Education de qualite"
+  "title": "4-99-1"
 }

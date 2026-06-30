@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-a-2",
-  "title": "Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2024 United States dollars)"
+  "title": "2-a-2"
 }
