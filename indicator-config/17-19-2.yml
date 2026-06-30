@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Countries with birth registration data that are at least 90 percent complete
+    (1 = YES; 0 = NO)

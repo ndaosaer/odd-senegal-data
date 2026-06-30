@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Countries that are contracting Parties to the International Treaty on Plant
+    Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)

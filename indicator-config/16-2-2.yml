@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Detected victims of human trafficking, by age and sex (number)

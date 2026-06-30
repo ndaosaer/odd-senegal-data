@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of project objectives in new development interventions drawn
+    from country-led result frameworks - data by recipient (%)

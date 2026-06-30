@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Amount of tracked exported Environmentally Sound Technologies (current United
+    States dollars)

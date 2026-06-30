@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)

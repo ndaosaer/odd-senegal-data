@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of children under 5 years of age whose births have been registered
+    with a civil authority (% of children under 5 years of age) - <1Y

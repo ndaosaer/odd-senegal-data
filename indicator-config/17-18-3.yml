@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Countries with national statistical plans with funding from Government (1
+    = YES; 0 = NO)

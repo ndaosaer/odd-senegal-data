@@ -1,0 +1,6 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Countries with National Human Rights Institutions in compliance with the
+    Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status
+    A, fully compliant)

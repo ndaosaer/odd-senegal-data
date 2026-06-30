@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Amount of United States dollars committed to public-private partnerships
+    for infrastructure, million USD nominal

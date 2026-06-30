@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Developing countries’ and least developed countries’ share of global merchandise
+    exports (%)
