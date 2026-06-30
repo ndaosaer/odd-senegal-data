@@ -1,0 +1,12 @@
+indicator_name: Average income of large-scale food producers, PPP (constant 2017 international
+  $)
+national_indicator_description: Indicateur officiel 2.3.2, cible 2.3, ODD 2. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: Enquête de Suivi de la Pauvreté au Sénégal
+source_active_1: true
+graph_type: line
+graph_title: Average income of large-scale food producers, PPP (constant 2017 international
+  $)

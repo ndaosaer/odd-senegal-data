@@ -1,0 +1,12 @@
+indicator_name: Share of women among owners or rights-bearers of agricultural land,
+  by type of tenure (%)
+national_indicator_description: Indicateur officiel 5.a.1, cible 5.a, ODD 5. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: Enquete Annuelle Agricole 2021-2022
+source_active_1: true
+graph_type: line
+graph_title: Share of women among owners or rights-bearers of agricultural land, by
+  type of tenure (%)

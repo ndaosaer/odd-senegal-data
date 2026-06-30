@@ -1,0 +1,11 @@
+indicator_name: Degree of integrated water resources management implementation (%)
+national_indicator_description: Indicateur officiel 6.5.1, cible 6.5, ODD 6. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: WATER RESOURCES MANAGEMENT AND PLANNING BRANCH, Ministry of
+  Water and Sanitation
+source_active_1: true
+graph_type: line
+graph_title: Degree of integrated water resources management implementation (%)
