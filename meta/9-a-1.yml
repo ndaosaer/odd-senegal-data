@@ -1,0 +1,13 @@
+indicator_name: Total official flows for infrastructure, by recipient countries (millions
+  of constant 2024 United States dollars)
+national_indicator_description: Indicateur officiel 9.a.1, cible 9.a, ODD 9. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: The Organisation for Economic Co-operation and Development
+  (OECD).
+source_active_1: true
+graph_type: line
+graph_title: Total official flows for infrastructure, by recipient countries (millions
+  of constant 2024 United St

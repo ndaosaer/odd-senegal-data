@@ -1,0 +1,10 @@
+indicator_name: Ratio of land consumption rate to population growth rate
+national_indicator_description: Indicateur officiel 11.3.1, cible 11.3, ODD 11. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: UN-Habitat Urban Indicators Database
+source_active_1: true
+graph_type: line
+graph_title: Ratio of land consumption rate to population growth rate

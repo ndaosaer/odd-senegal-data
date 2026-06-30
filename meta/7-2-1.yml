@@ -1,0 +1,10 @@
+indicator_name: Renewable energy share in the total final energy consumption (%)
+national_indicator_description: Indicateur officiel 7.2.1, cible 7.2, ODD 7. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: IEA (2025), World Energy Balances
+source_active_1: true
+graph_type: line
+graph_title: Renewable energy share in the total final energy consumption (%)

@@ -1,0 +1,10 @@
+indicator_name: Carbon dioxide emissions from fuel combustion (millions of tonnes)
+national_indicator_description: Indicateur officiel 9.4.1, cible 9.4, ODD 9. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: IEA (2025), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics
+source_active_1: true
+graph_type: line
+graph_title: Carbon dioxide emissions from fuel combustion (millions of tonnes)
