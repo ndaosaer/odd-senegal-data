@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of women aged 20-24 years who were married or in a union before
+    age 15 (%)

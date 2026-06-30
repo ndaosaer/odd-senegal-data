@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of seats held by women in national parliaments (% of total number
+    of seats)

@@ -1,0 +1,6 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Extent to which countries have laws and regulations that guarantee full
+    and equal access to women and men aged 15 years and older to sexual and reproductive
+    health care, information and education (%)

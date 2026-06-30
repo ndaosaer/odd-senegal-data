@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Share of women among owners or rights-bearers of agricultural land, by type
+    of tenure (%)

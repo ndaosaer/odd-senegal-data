@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: '[World Bank] Proportion of population covered by social assistance programs
+    (%)'

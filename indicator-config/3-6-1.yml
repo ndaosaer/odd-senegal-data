@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Death rate due to road traffic injuries, by sex (per 100,000 population)

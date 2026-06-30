@@ -1,0 +1,6 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Proportion of ever-partnered women and girls subjected to physical and/or
+    sexual violence by a current or former intimate partner in the previous 12 months,
+    by age (%) - 15+

@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Direct economic loss to cultural heritage damaged or destroyed attributed
+    to disasters (millions of current United States dollars)

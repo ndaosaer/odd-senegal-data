@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of teachers with the minimum required qualifications, by education
+    level and sex (%) - PRIMAR

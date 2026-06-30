@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) - 10-14

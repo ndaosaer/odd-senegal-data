@@ -1,0 +1,6 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of women who make their own informed decisions regarding sexual
+    relations, contraceptive use and reproductive health care (% of women aged 15-49
+    years)

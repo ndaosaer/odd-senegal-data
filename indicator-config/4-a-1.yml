@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of schools with access to electricity, by education level (%)
+    - PRIMAR

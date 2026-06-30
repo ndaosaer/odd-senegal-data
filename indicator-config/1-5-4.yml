@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Number of local governments that adopt and implement local DRR strategies
+    in line with national strategies (number)

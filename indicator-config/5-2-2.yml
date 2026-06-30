@@ -1,0 +1,6 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Proportion of women and girls aged 15 years and older subjected to sexual
+    violence by persons other than an intimate partner in the previous 12 months (%)
+    - 15+

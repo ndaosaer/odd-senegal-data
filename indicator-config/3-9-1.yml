@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Age-standardized mortality rate attributed to ambient air pollution (deaths
+    per 100,000 population)

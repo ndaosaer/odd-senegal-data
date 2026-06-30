@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Prevalence of minimum dietary diversity among children aged 6-23 months
+    (%)

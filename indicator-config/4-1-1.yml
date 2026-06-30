@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of children and young people achieving a minimum proficiency
+    level in reading and mathematics (%) - BOTHSEX

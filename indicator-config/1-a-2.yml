@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of total government spending on essential services, education
+    [UIS methodology] (%)

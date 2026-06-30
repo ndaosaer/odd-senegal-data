@@ -1,0 +1,6 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Total official development assistance to medical research and basic health
+    sectors, gross disbursement, by recipient countries (millions of constant 2024
+    United States dollars)

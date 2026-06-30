@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of people with legally recognized documentation of their rights
+    to land out of total adult population, by sex (%)

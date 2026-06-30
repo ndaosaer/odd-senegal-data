@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Adjusted gender parity index for participation rate in organized learning
+    (one year before the official primary entry age), (ratio)
