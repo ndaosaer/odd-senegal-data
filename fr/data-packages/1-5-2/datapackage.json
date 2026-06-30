@@ -12,24 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)",
-                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)",
-                "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)",
-                "Direct economic loss attributed to disasters (current United States dollars)",
-                "Direct economic loss in the housing sector attributed to disasters (current United States dollars)",
-                "Direct economic loss attributed to disasters relative to GDP (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -42,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-5-2",
-  "title": "1-5-2"
+  "title": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)"
 }

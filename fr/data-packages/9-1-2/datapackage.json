@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Freight volume, by mode of transport (tonne kilometres)",
-                "Passenger volume (passenger kilometres), by mode of transport",
-                "Container port traffic, maritime transport (twenty-foot equivalent units - TEUs)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -39,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-2",
-  "title": "9-1-2"
+  "title": "Freight volume, by mode of transport (tonne kilometres)"
 }

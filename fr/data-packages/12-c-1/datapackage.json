@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars)",
-                "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%)",
-                "Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -39,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-c-1",
-  "title": "12-c-1"
+  "title": "Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars)"
 }

@@ -12,22 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prevalence of moderate or severe food insecurity in the population (%)",
-                "Population in moderate or severe food insecurity (thousands of people)",
-                "Prevalence of severe food insecurity in the population (%)",
-                "Population in severe food insecurity (thousands of people)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -40,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-2",
-  "title": "2-1-2"
+  "title": "Prevalence of moderate or severe food insecurity in the population (%)"
 }

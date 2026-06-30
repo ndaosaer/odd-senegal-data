@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of women aged 15-49 years with anaemia (%)",
-                "Proportion of women aged 15-49 years with anaemia, non-pregnant (%)",
-                "Proportion of women aged 15-49 years with anaemia, pregnant (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -39,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-3",
-  "title": "2-2-3"
+  "title": "Proportion of women aged 15-49 years with anaemia (%)"
 }

@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of groundwater bodies with good ambient water quality (%)",
-                "Proportion of river water bodies with good ambient water quality (%)",
-                "Proportion of bodies of water with good ambient water quality (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -39,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-3-2",
-  "title": "6-3-2"
+  "title": "Proportion of groundwater bodies with good ambient water quality (%)"
 }

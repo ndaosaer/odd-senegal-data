@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-99-1",
-  "title": "7-99-1"
+  "title": "[Indice de synthese] Score composite ODD 7 : Energie propre et abordable"
 }

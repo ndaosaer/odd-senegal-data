@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)",
-                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)",
-                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -39,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-b-1",
-  "title": "12-b-1"
+  "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)"
 }

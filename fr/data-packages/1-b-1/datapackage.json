@@ -12,22 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of government spending which benefits the poorest 20 percent (%)",
-                "Proportion of government spending on education which benefits the poorest 20 percent (%)",
-                "Proportion of government spending on health which benefits the poorest 20 percent (%)",
-                "Proportion of government spending on social transfers which benefits the poorest 20 percent (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -40,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-b-1",
-  "title": "1-b-1"
+  "title": "Proportion of government spending which benefits the poorest 20 percent (%)"
 }

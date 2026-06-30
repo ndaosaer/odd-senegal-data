@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-99-1",
-  "title": "8-99-1"
+  "title": "[Indice de synthese] Score composite ODD 8 : Travail decent et croissance economique"
 }

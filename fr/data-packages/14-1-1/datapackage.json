@@ -12,26 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beach litter originating from national land-based sources that ends in the beach (%)",
-                "Beach litter originating from national land-based sources that ends in the beach (Tonnes)",
-                "Exported beach litter originating from national land-based sources (Tonnes)",
-                "Beach litter originating from national land-based sources that ends in the ocean (%)",
-                "Beach litter originating from national land-based sources that ends in the ocean (Tonnes)",
-                "Beach litter items per unit of surface area (Number of items per 100 square meters)",
-                "Chlorophyll-a anomaly, remote sensing (%)",
-                "Chlorophyll-a deviations, remote sensing (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -44,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "14-1-1",
-  "title": "14-1-1"
+  "title": "Beach litter originating from national land-based sources that ends in the beach (%)"
 }

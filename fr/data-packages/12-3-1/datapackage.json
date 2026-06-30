@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Food waste (Tonnes)",
-                "Food waste per capita (KG)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-3-1",
-  "title": "12-3-1"
+  "title": "Food waste (Tonnes)"
 }

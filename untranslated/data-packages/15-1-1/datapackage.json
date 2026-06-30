@@ -12,19 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Forest area as a proportion of total land area (%)",
-                "Forest area (thousands of hectares)",
-                "Land area (thousands of hectares)",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -36,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-1",
-  "title": "15-1-1"
+  "title": "Forest area as a proportion of total land area (%)"
 }

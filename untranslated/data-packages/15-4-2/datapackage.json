@@ -12,21 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Area of degraded mountain land (square kilometres)",
-                "Proportion of degraded mountain land (%)",
-                "Mountain green cover area (square kilometres)",
-                "Mountain Green Cover Index",
-                "Mountain area (square kilometres)",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -38,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "15-4-2",
-  "title": "15-4-2"
+  "title": "Area of degraded mountain land (square kilometres)"
 }

@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average share of urban population with convenient access to open public spaces (%)",
-                "Average share of the built-up area of cities that is open space for public use for all (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-7-1",
-  "title": "11-7-1"
+  "title": "Average share of urban population with convenient access to open public spaces (%)"
 }

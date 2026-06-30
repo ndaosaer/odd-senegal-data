@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
@@ -24,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "14-4-1",
-  "title": "14-4-1"
+  "title": "Proportion of fish stocks within biologically sustainable levels (not overexploited) (%)"
 }

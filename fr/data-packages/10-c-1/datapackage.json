@@ -12,22 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%)",
-                "Average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%)",
-                "SmaRT average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%)",
-                "Average remittance costs of sending $200 for a sending country as a proportion of the amount remitted (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -40,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-c-1",
-  "title": "10-c-1"
+  "title": "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%)"
 }

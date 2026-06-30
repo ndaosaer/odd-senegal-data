@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)",
-                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-2",
-  "title": "15-1-2"
+  "title": "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)"
 }

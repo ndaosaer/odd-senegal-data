@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Value",
@@ -24,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "5-c-1",
-  "title": "5-c-1"
+  "title": "Countries with systems to track and make public allocations for gender equality and women's empowerment (0 = does not meet the requirement; 1 = approached the requirement; 2  =  Fully meets requirement)"
 }

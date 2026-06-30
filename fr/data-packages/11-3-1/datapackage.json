@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-3-1",
-  "title": "11-3-1"
+  "title": "Ratio of land consumption rate to population growth rate"
 }

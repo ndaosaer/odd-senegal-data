@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-99-1",
-  "title": "10-99-1"
+  "title": "[Indice de synthese] Score composite ODD 10 : Inegalites reduites"
 }

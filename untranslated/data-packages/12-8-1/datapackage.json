@@ -12,20 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Score on greening education in biodiversity (%)",
-                "Score on greening education in climate change (%)",
-                "Score on greening education in environment and sustainability (%)",
-                "Score on greening education in environment and sustainability, climate change, and biodiversity (%)",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -37,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "12-8-1",
-  "title": "12-8-1"
+  "title": "Score on greening education in biodiversity (%)"
 }

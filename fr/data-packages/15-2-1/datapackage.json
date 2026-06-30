@@ -12,23 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Above-ground biomass in forest (tonnes per hectare)",
-                "Forest area certified under an independently verified certification scheme (thousands of hectares)",
-                "Annual forest area change rate (%)",
-                "Proportion of forest area with a long-term management plan (%)",
-                "Proportion of forest area within legally established protected areas (%)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -41,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-2-1",
-  "title": "15-2-1"
+  "title": "Above-ground biomass in forest (tonnes per hectare)"
 }

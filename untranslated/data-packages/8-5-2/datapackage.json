@@ -12,22 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Unemployment rate, by sex and disability - 13th ICLS (%) - BOTHSEX",
-                "Unemployment rate, by sex and disability - 13th ICLS (%) - FEMALE",
-                "Unemployment rate, by sex and disability - 13th ICLS (%) - MALE",
-                "Unemployment rate, by sex and age - 13th ICLS (%) - BOTHSEX",
-                "Unemployment rate, by sex and age - 13th ICLS (%) - FEMALE",
-                "Unemployment rate, by sex and age - 13th ICLS (%) - MALE",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -39,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-2",
-  "title": "8-5-2"
+  "title": "Unemployment rate, by sex and age"
 }

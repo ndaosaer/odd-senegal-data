@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-3-1",
-  "title": "7-3-1"
+  "title": "Energy intensity level of primary energy (megajoules per constant 2021 purchasing power parity GDP)"
 }

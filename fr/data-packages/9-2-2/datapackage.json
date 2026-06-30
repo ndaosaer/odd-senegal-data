@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-2",
-  "title": "9-2-2"
+  "title": "Manufacturing employment as a proportion of total employment - 13th ICLS (%)"
 }

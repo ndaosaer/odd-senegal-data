@@ -12,20 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Electronic waste recycled, per capita (Kg)",
-                "Proportion of electronic waste recycled (%)",
-                "Electronic waste recycled (Tonnes)",
-                "Municipal waste recycled (Tonnes)",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -37,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "12-5-1",
-  "title": "12-5-1"
+  "title": "Electronic waste recycled, per capita (Kg)"
 }

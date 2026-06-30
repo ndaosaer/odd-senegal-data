@@ -12,26 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Année"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Electronic waste collected, per capita (KG)",
-                "Proportion of electronic waste collected (%)",
-                "Electronic waste collected (Tonnes)",
-                "Electronic waste generated, per capita (Kg)",
-                "Electronic waste generated (Tonnes)",
-                "Municipal waste collected (Tonnes)",
-                "Municipal waste treated by type of treatment (Tonnes)",
-                "Total waste generation, by activity (Tonnes)",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -44,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-4-2",
-  "title": "12-4-2"
+  "title": "Electronic waste collected, per capita (KG)"
 }
