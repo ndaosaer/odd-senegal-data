@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with national statistical plans with funding from donors (1 = YES; 0 = NO)",
+                "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)",
+                "Countries with national statistical plans with funding from others (1 = YES; 0 = NO)",
+                "Countries with national statistical plans that are fully funded (1 = YES; 0 = NO)",
+                "Countries with national statistical plans that are under implementation (1 = YES; 0 = NO)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-18-3",
+  "title": "17-18-3"
+}

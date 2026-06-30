@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross receipts by developing countries of official sustainable development grants (millions of United States dollars)",
+                "Gross receipts by developing countries of official sustainable development grants from South-South cooperation providers (millions of United States dollars)",
+                "Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis (millions of United States dollars)",
+                "Gross receipts by developing countries of official concessional sustainable development loans (millions of United States dollars)",
+                "Gross receipts by developing countries of official non-concessional sustainable development loans (millions of United States dollars)",
+                "Gross receipts by developing countries of private grants (millions of United States dollars)",
+                "Foreign direct investment (FDI) inflows (millions of United States dollars)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-3-1",
+  "title": "17-3-1"
+}

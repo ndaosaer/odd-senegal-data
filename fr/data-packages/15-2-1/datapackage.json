@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Above-ground biomass in forest (tonnes per hectare)",
+                "Forest area certified under an independently verified certification scheme (thousands of hectares)",
+                "Annual forest area change rate (%)",
+                "Proportion of forest area with a long-term management plan (%)",
+                "Proportion of forest area within legally established protected areas (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-2-1",
+  "title": "15-2-1"
+}

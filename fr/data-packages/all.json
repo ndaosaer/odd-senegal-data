@@ -63,6 +63,30 @@
       "title": "12-3-1"
     },
     {
+      "path": "17-18-2/data.csv",
+      "name": "17-18-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-18-2"
+    },
+    {
       "path": "2-a-2/data.csv",
       "name": "2-a-2",
       "profile": "tabular-data-resource",
@@ -186,6 +210,46 @@
         ]
       },
       "title": "2-2-3"
+    },
+    {
+      "path": "16-9-1/data.csv",
+      "name": "16-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - <1Y",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - <5Y",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - M12T23",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - M24T35",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - M36T47",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - M48T59",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-9-1"
     },
     {
       "path": "12-5-1/data.csv",
@@ -554,6 +618,30 @@
       "title": "1-4-1"
     },
     {
+      "path": "17-8-1/data.csv",
+      "name": "17-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-8-1"
+    },
+    {
       "path": "3-b-3/data.csv",
       "name": "3-b-3",
       "profile": "tabular-data-resource",
@@ -600,6 +688,144 @@
         ]
       },
       "title": "10-1-1"
+    },
+    {
+      "path": "17-18-1/data.csv",
+      "name": "17-18-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index)",
+                "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index)",
+                "Open Data Inventory (ODIN) Coverage Index",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-18-1"
+    },
+    {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross receipts by developing countries of official sustainable development grants (millions of United States dollars)",
+                "Gross receipts by developing countries of official sustainable development grants from South-South cooperation providers (millions of United States dollars)",
+                "Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis (millions of United States dollars)",
+                "Gross receipts by developing countries of official concessional sustainable development loans (millions of United States dollars)",
+                "Gross receipts by developing countries of official non-concessional sustainable development loans (millions of United States dollars)",
+                "Gross receipts by developing countries of private grants (millions of United States dollars)",
+                "Foreign direct investment (FDI) inflows (millions of United States dollars)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-3-1"
+    },
+    {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)",
+                "Number of fixed broadband subscriptions, by speed (number)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-6-1"
+    },
+    {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-6-1"
     },
     {
       "path": "3-5-1/data.csv",
@@ -796,6 +1022,45 @@
       "title": "14-4-1"
     },
     {
+      "path": "15-4-2/data.csv",
+      "name": "15-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of degraded mountain land (square kilometres)",
+                "Proportion of degraded mountain land (%)",
+                "Mountain green cover area (square kilometres)",
+                "Mountain Green Cover Index",
+                "Mountain area (square kilometres)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-4-2"
+    },
+    {
       "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
@@ -830,6 +1095,30 @@
         ]
       },
       "title": "5-3-1"
+    },
+    {
+      "path": "15-5-1/data.csv",
+      "name": "15-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-5-1"
     },
     {
       "path": "14-7-1/data.csv",
@@ -1118,6 +1407,30 @@
       "title": "4-5-1"
     },
     {
+      "path": "17-3-2/data.csv",
+      "name": "17-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-3-2"
+    },
+    {
       "path": "4-2-1/data.csv",
       "name": "4-2-1",
       "profile": "tabular-data-resource",
@@ -1202,6 +1515,44 @@
         ]
       },
       "title": "4-7-1"
+    },
+    {
+      "path": "17-11-1/data.csv",
+      "name": "17-11-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Developing countries’ and least developed countries’ share of global merchandise exports (%)",
+                "Developing countries’ and least developed countries’ share of global services exports (%)",
+                "Developing countries’ and least developed countries’ share of global merchandise imports (%)",
+                "Developing countries’ and least developed countries’ share of global services imports (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-11-1"
     },
     {
       "path": "3-1-2/data.csv",
@@ -1390,6 +1741,42 @@
       "title": "3-4-2"
     },
     {
+      "path": "17-17-1/data.csv",
+      "name": "17-17-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",
+                "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-17-1"
+    },
+    {
       "path": "5-a-2/data.csv",
       "name": "5-a-2",
       "profile": "tabular-data-resource",
@@ -1498,6 +1885,125 @@
       "title": "1-2-1"
     },
     {
+      "path": "16-5-1/data.csv",
+      "name": "16-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-5-1"
+    },
+    {
+      "path": "16-2-2/data.csv",
+      "name": "16-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Detected victims of human trafficking, by age and sex (number)",
+                "Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (number)",
+                "Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)",
+                "Detected victims of human trafficking for removal of organ, by age and sex (number)",
+                "Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)",
+                "Detected victims of human trafficking for other purposes, by age and sex (number)",
+                "Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)",
+                "Detected victims of human trafficking, by age and sex (per 100,000 population)",
+                "Detected victims of human trafficking for sexual exploitation, by age and sex (number)",
+                "Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-2-2"
+    },
+    {
+      "path": "17-13-1/data.csv",
+      "name": "17-13-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Current account balance as a proportion of GDP (%)",
+                "Portfolio investment, net (Balance of Payments, current United States dollars)",
+                "Foreign direct investment, net inflows, as a proportion of GDP (%)",
+                "Gross public sector debt, Central Government, as a proportion of GDP (%)",
+                "External debt stocks as a proportion of GNI (%)",
+                "Annual broad money growth (%)",
+                "Annual inflation, consumer prices (%)",
+                "Cash surplus/deficit as a proportion of GDP (%)",
+                "Tax revenue as a proportion of GDP (%)",
+                "Annual growth of the general government final consumption expenditure (%)",
+                "Annual growth of households and NPISHs final consumption expenditure (%)",
+                "Annual growth of exports of goods and services (%)",
+                "Annual growth of the gross capital formation (%)",
+                "Annual growth of imports of goods and services (%)",
+                "Annual GDP growth (%)",
+                "DEC alternative conversion factor (in local currency unit per United States dollar)",
+                "Merchandise trade as a proportion of GDP (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-13-1"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -1520,6 +2026,42 @@
         ]
       },
       "title": "3-4-1"
+    },
+    {
+      "path": "17-10-1/data.csv",
+      "name": "17-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",
+                "Worldwide weighted tariff-average, preferential status, by type of product (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-10-1"
     },
     {
       "path": "3-6-1/data.csv",
@@ -1742,6 +2284,30 @@
       "title": "3-3-3"
     },
     {
+      "path": "15-3-1/data.csv",
+      "name": "15-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-3-1"
+    },
+    {
       "path": "13-99-1/data.csv",
       "name": "13-99-1",
       "profile": "tabular-data-resource",
@@ -1764,6 +2330,30 @@
         ]
       },
       "title": "13-99-1"
+    },
+    {
+      "path": "16-5-2/data.csv",
+      "name": "16-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-5-2"
     },
     {
       "path": "10-99-1/data.csv",
@@ -1854,6 +2444,30 @@
         ]
       },
       "title": "14-1-1"
+    },
+    {
+      "path": "16-99-1/data.csv",
+      "name": "16-99-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-99-1"
     },
     {
       "path": "4-b-1/data.csv",
@@ -2025,6 +2639,79 @@
       "title": "10-7-2"
     },
     {
+      "path": "17-19-2/data.csv",
+      "name": "17-19-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)",
+                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)",
+                "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-19-2"
+    },
+    {
+      "path": "16-10-1/data.csv",
+      "name": "16-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with at least one verified case of killings of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",
+                "Countries with at least one verified case of enforced disappearance of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-10-1"
+    },
+    {
       "path": "3-2-1/data.csv",
       "name": "3-2-1",
       "profile": "tabular-data-resource",
@@ -2122,6 +2809,54 @@
         ]
       },
       "title": "9-b-1"
+    },
+    {
+      "path": "17-99-1/data.csv",
+      "name": "17-99-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-99-1"
+    },
+    {
+      "path": "17-4-1/data.csv",
+      "name": "17-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-4-1"
     },
     {
       "path": "10-c-1/data.csv",
@@ -2442,6 +3177,30 @@
       "title": "7-3-1"
     },
     {
+      "path": "15-9-1/data.csv",
+      "name": "15-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-9-1"
+    },
+    {
       "path": "11-b-2/data.csv",
       "name": "11-b-2",
       "profile": "tabular-data-resource",
@@ -2515,6 +3274,30 @@
         ]
       },
       "title": "4-6-1"
+    },
+    {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-19-1"
     },
     {
       "path": "12-1-1/data.csv",
@@ -2630,6 +3413,30 @@
       "title": "4-c-1"
     },
     {
+      "path": "15-99-1/data.csv",
+      "name": "15-99-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-99-1"
+    },
+    {
       "path": "5-c-1/data.csv",
       "name": "5-c-1",
       "profile": "tabular-data-resource",
@@ -2652,6 +3459,45 @@
         ]
       },
       "title": "5-c-1"
+    },
+    {
+      "path": "15-2-1/data.csv",
+      "name": "15-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Above-ground biomass in forest (tonnes per hectare)",
+                "Forest area certified under an independently verified certification scheme (thousands of hectares)",
+                "Annual forest area change rate (%)",
+                "Proportion of forest area with a long-term management plan (%)",
+                "Proportion of forest area within legally established protected areas (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-2-1"
     },
     {
       "path": "9-99-1/data.csv",
@@ -2910,6 +3756,30 @@
       "title": "8-4-2"
     },
     {
+      "path": "15-a-1/data.csv",
+      "name": "15-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-a-1"
+    },
+    {
       "path": "14-b-1/data.csv",
       "name": "14-b-1",
       "profile": "tabular-data-resource",
@@ -2932,6 +3802,30 @@
         ]
       },
       "title": "14-b-1"
+    },
+    {
+      "path": "16-2-3/data.csv",
+      "name": "16-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-2-3"
     },
     {
       "path": "7-b-1/data.csv",
@@ -3031,6 +3925,42 @@
       "title": "2-4-1"
     },
     {
+      "path": "17-1-1/data.csv",
+      "name": "17-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total government revenue (budgetary central government) as a proportion of GDP (%)",
+                "Total government revenue, in local currency",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-1-1"
+    },
+    {
       "path": "5-6-1/data.csv",
       "name": "5-6-1",
       "profile": "tabular-data-resource",
@@ -3067,6 +3997,106 @@
         ]
       },
       "title": "5-6-1"
+    },
+    {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-1-2"
+    },
+    {
+      "path": "17-7-1/data.csv",
+      "name": "17-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Amount of tracked exported Environmentally Sound Technologies (current United States dollars)",
+                "Amount of tracked imported Environmentally Sound Technologies (current United States dollars)",
+                "Total trade of tracked Environmentally Sound Technologies (current United States dollars)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-7-1"
+    },
+    {
+      "path": "17-18-3/data.csv",
+      "name": "17-18-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with national statistical plans with funding from donors (1 = YES; 0 = NO)",
+                "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)",
+                "Countries with national statistical plans with funding from others (1 = YES; 0 = NO)",
+                "Countries with national statistical plans that are fully funded (1 = YES; 0 = NO)",
+                "Countries with national statistical plans that are under implementation (1 = YES; 0 = NO)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-18-3"
     },
     {
       "path": "4-a-1/data.csv",
@@ -3172,6 +4202,69 @@
       "title": "1-3-1"
     },
     {
+      "path": "16-b-1/data.csv",
+      "name": "16-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-b-1"
+    },
+    {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lo",
+                "Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral",
+                "Number of youth in parliament, Lower Chamber or Unicameral (Number)",
+                "Proportion of youth in parliament, Lower Chamber or Unicameral (%)",
+                "Ratio of young members in parliament (Ratio of the proportion of young members in parliament in the proportion of the national population with the age of eligibility as a lower bound boundary), Lower",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-7-1"
+    },
+    {
       "path": "10-4-1/data.csv",
       "name": "10-4-1",
       "profile": "tabular-data-resource",
@@ -3194,6 +4287,42 @@
         ]
       },
       "title": "10-4-1"
+    },
+    {
+      "path": "16-a-1/data.csv",
+      "name": "16-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",
+                "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-a-1"
     },
     {
       "path": "5-5-1/data.csv",
@@ -3234,6 +4363,30 @@
       "title": "5-5-1"
     },
     {
+      "path": "17-5-1/data.csv",
+      "name": "17-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-5-1"
+    },
+    {
       "path": "14-99-1/data.csv",
       "name": "14-99-1",
       "profile": "tabular-data-resource",
@@ -3258,6 +4411,44 @@
       "title": "14-99-1"
     },
     {
+      "path": "17-15-1/data.csv",
+      "name": "17-15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient (%)",
+                "Proportion of results indicators drawn from country-led results frameworks - data by recipient (%)",
+                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%)",
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-15-1"
+    },
+    {
       "path": "7-a-1/data.csv",
       "name": "7-a-1",
       "profile": "tabular-data-resource",
@@ -3280,6 +4471,44 @@
         ]
       },
       "title": "7-a-1"
+    },
+    {
+      "path": "15-8-1/data.csv",
+      "name": "15-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO)",
+                "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)",
+                "Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO)",
+                "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-8-1"
     },
     {
       "path": "9-5-1/data.csv",
@@ -3687,6 +4916,30 @@
       "title": "4-1-1"
     },
     {
+      "path": "17-9-1/data.csv",
+      "name": "17-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-9-1"
+    },
+    {
       "path": "2-2-4/data.csv",
       "name": "2-2-4",
       "profile": "tabular-data-resource",
@@ -3891,6 +5144,30 @@
       "title": "3-b-2"
     },
     {
+      "path": "16-6-2/data.csv",
+      "name": "16-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-6-2"
+    },
+    {
       "path": "12-8-1/data.csv",
       "name": "12-8-1",
       "profile": "tabular-data-resource",
@@ -4019,6 +5296,42 @@
       "title": "3-d-1"
     },
     {
+      "path": "17-12-1/data.csv",
+      "name": "17-12-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average tariff applied by developed countries, most-favored nation status, by type of product (%)",
+                "Average tariff applied by developed countries, preferential status, by type of product (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-12-1"
+    },
+    {
       "path": "11-2-1/data.csv",
       "name": "11-2-1",
       "profile": "tabular-data-resource",
@@ -4065,6 +5378,30 @@
         ]
       },
       "title": "11-6-1"
+    },
+    {
+      "path": "17-16-1/data.csv",
+      "name": "17-16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-16-1"
     },
     {
       "path": "3-3-5/data.csv",
@@ -4187,6 +5524,30 @@
       "title": "7-99-1"
     },
     {
+      "path": "15-b-1/data.csv",
+      "name": "15-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-b-1"
+    },
+    {
       "path": "12-4-1/data.csv",
       "name": "12-4-1",
       "profile": "tabular-data-resource",
@@ -4224,6 +5585,42 @@
         ]
       },
       "title": "12-4-1"
+    },
+    {
+      "path": "16-8-1/data.csv",
+      "name": "16-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of members of developing countries in international organizations, by organization (%)",
+                "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-8-1"
     },
     {
       "path": "8-10-2/data.csv",
@@ -4297,6 +5694,45 @@
         ]
       },
       "title": "2-a-1"
+    },
+    {
+      "path": "15-6-1/data.csv",
+      "name": "15-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)",
+                "Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO)",
+                "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for",
+                "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+                "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-6-1"
     },
     {
       "path": "6-99-1/data.csv",
@@ -4405,6 +5841,54 @@
         ]
       },
       "title": "2-1-1"
+    },
+    {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-3-2"
+    },
+    {
+      "path": "15-4-1/data.csv",
+      "name": "15-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-4-1"
     },
     {
       "path": "11-7-1/data.csv",

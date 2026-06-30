@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with at least one verified case of killings of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",
+                "Countries with at least one verified case of enforced disappearance of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-10-1",
+  "title": "16-10-1"
+}

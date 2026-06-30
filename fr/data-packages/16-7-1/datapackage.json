@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lo",
+                "Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral",
+                "Number of youth in parliament, Lower Chamber or Unicameral (Number)",
+                "Proportion of youth in parliament, Lower Chamber or Unicameral (%)",
+                "Ratio of young members in parliament (Ratio of the proportion of young members in parliament in the proportion of the national population with the age of eligibility as a lower bound boundary), Lower",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1",
+  "title": "16-7-1"
+}

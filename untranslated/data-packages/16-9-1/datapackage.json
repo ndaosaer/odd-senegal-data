@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - <1Y",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - <5Y",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - M12T23",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - M24T35",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - M36T47",
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age) - M48T59",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-9-1",
+  "title": "16-9-1"
+}
