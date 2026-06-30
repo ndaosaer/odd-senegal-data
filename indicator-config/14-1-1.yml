@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Beach litter originating from national land-based sources that ends in the
+    beach (Tonnes)

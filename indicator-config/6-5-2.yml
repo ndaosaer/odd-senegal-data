@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Proportion of transboundary basins (river and lake basins and aquifers)
+    with an operational arrangement for water cooperation (%)

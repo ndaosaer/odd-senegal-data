@@ -1,0 +1,6 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Countries with procedures in law or policy for participation by service
+    users/communities in planning program in rural drinking-water supply, by level
+    of definition in procedures (10 = Clearly defined

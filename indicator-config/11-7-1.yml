@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Average share of urban population with convenient access to open public
+    spaces (%)

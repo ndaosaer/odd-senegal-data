@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by
+    protected areas (%)

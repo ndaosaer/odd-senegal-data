@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Forest area certified under an independently verified certification scheme
+    (thousands of hectares)

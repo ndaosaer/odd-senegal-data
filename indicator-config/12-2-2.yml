@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Domestic material consumption per capita, by type of raw material (tonnes)

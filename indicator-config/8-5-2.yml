@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Unemployment rate, by sex and age - 13th ICLS (%) - BOTHSEX

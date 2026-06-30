@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Implementation of standard accounting tools to monitor the economic and
+    environmental aspects of tourism (SEEA tables)

@@ -1,0 +1,6 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Countries with sustainable consumption and production (SCP) national action
+    plans or SCP mainstreamed as a priority or target into national policies (1 =
+    YES; 0 = NO)

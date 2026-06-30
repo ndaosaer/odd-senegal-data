@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: negative
+  series: Number of disruptions to basic services attributed to disasters (number)

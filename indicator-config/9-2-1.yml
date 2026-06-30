@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Manufacturing value added (constant 2020 United States dollars) as a proportion
+    of GDP (%)

@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Degree of integrated water resources management implementation (%)

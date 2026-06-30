@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Total official flows (commitments) for Aid for Trade, by recipient countries
+    (millions of constant 2024 United States dollars)

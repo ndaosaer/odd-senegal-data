@@ -1,0 +1,4 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Number of commercial bank branches per 100,000 adults

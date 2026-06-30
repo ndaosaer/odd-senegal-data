@@ -1,0 +1,5 @@
+auto_progress_calculation: true
+progress_calculation_options:
+- direction: positive
+  series: Fossil-fuel subsidies (consumption and production) (billions of nominal
+    United States dollars)
