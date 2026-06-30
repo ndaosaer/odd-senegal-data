@@ -1,0 +1,11 @@
+indicator_name: Installed renewable electricity-generating capacity (watts per capita)
+national_indicator_description: Indicateur officiel 12.a.1, cible 12.a, ODD 12. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: Renewable electricity generating capacity from IRENA's electricity
+  capacity database. Population data from the United Nations World Population Prospec
+source_active_1: true
+graph_type: line
+graph_title: Installed renewable electricity-generating capacity (watts per capita)

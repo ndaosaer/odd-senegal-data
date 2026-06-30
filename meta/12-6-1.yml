@@ -1,0 +1,12 @@
+indicator_name: Number of companies publishing sustainability reports with disclosure
+  by dimension, by level of requirement (Number)
+national_indicator_description: Indicateur officiel 12.6.1, cible 12.6, ODD 12. Donnees
+  extraites de la base mondiale UNSD SDG Indicators Database pour le Senegal.
+reporting_status: complete
+data_non_statistical: false
+national_geographical_coverage: Senegal
+source_organisation_1: Refinitiv
+source_active_1: true
+graph_type: line
+graph_title: Number of companies publishing sustainability reports with disclosure
+  by dimension, by level of requ
