@@ -22,7 +22,7 @@
           }
         ]
       },
-      "title": "11-a-1"
+      "title": "Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO)"
     },
     {
       "path": "12-3-1/data.csv",
@@ -55,7 +55,7 @@
           }
         ]
       },
-      "title": "12-3-1"
+      "title": "Food waste (Tonnes)"
     },
     {
       "path": "17-18-2/data.csv",
@@ -136,7 +136,7 @@
           }
         ]
       },
-      "title": "11-5-2"
+      "title": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)"
     },
     {
       "path": "4-2-2/data.csv",
@@ -308,7 +308,7 @@
           }
         ]
       },
-      "title": "8-1-1"
+      "title": "Annual growth rate of real GDP per capita (%)"
     },
     {
       "path": "1-99-1/data.csv",
@@ -352,7 +352,7 @@
           }
         ]
       },
-      "title": "11-99-1"
+      "title": "[Indice de synthese] Score composite ODD 11 : Villes et communautes durables"
     },
     {
       "path": "9-a-1/data.csv",
@@ -374,7 +374,7 @@
           }
         ]
       },
-      "title": "9-a-1"
+      "title": "Total official flows for infrastructure, by recipient countries (millions of constant 2024 United States dollars)"
     },
     {
       "path": "2-3-2/data.csv",
@@ -464,7 +464,7 @@
           }
         ]
       },
-      "title": "6-a-1"
+      "title": "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2024 United States dollars)"
     },
     {
       "path": "9-4-1/data.csv",
@@ -498,7 +498,7 @@
           }
         ]
       },
-      "title": "9-4-1"
+      "title": "Carbon dioxide emissions from fuel combustion (millions of tonnes)"
     },
     {
       "path": "9-1-2/data.csv",
@@ -532,7 +532,7 @@
           }
         ]
       },
-      "title": "9-1-2"
+      "title": "Freight volume, by mode of transport (tonne kilometres)"
     },
     {
       "path": "1-4-1/data.csv",
@@ -631,7 +631,7 @@
           }
         ]
       },
-      "title": "10-1-1"
+      "title": "Growth rates of household expenditure or income per capita (%)"
     },
     {
       "path": "17-18-1/data.csv",
@@ -859,7 +859,7 @@
           }
         ]
       },
-      "title": "9-c-1"
+      "title": "Proportion of population covered by at least a 2G mobile network (%)"
     },
     {
       "path": "3-3-4/data.csv",
@@ -1071,7 +1071,7 @@
           }
         ]
       },
-      "title": "10-2-1"
+      "title": "Proportion of people living below 50 percent of median income (%)"
     },
     {
       "path": "5-5-2/data.csv",
@@ -1220,7 +1220,7 @@
           }
         ]
       },
-      "title": "10-7-3"
+      "title": "Total deaths and disappearances recorded during migration (number)"
     },
     {
       "path": "4-1-2/data.csv",
@@ -1485,7 +1485,7 @@
           }
         ]
       },
-      "title": "11-5-3"
+      "title": "Number of disruptions to basic services attributed to disasters (number)"
     },
     {
       "path": "6-1-1/data.csv",
@@ -1542,7 +1542,7 @@
           }
         ]
       },
-      "title": "6-b-1"
+      "title": "Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)"
     },
     {
       "path": "5-2-1/data.csv",
@@ -1674,7 +1674,7 @@
           }
         ]
       },
-      "title": "10-4-2"
+      "title": "Redistributive impact of fiscal policy, Gini index (%)"
     },
     {
       "path": "2-2-1/data.csv",
@@ -1996,7 +1996,7 @@
           }
         ]
       },
-      "title": "9-2-1"
+      "title": "Manufacturing value added (constant 2020 United States dollars) as a proportion of GDP (%)"
     },
     {
       "path": "5-3-2/data.csv",
@@ -2185,7 +2185,7 @@
           }
         ]
       },
-      "title": "10-99-1"
+      "title": "[Indice de synthese] Score composite ODD 10 : Inegalites reduites"
     },
     {
       "path": "10-3-1/data.csv",
@@ -2207,7 +2207,7 @@
           }
         ]
       },
-      "title": "10-3-1"
+      "title": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)"
     },
     {
       "path": "14-1-1/data.csv",
@@ -2357,7 +2357,7 @@
           }
         ]
       },
-      "title": "10-6-1"
+      "title": "Proportion of members of developing countries in international organizations, by organization (%)"
     },
     {
       "path": "3-c-1/data.csv",
@@ -2423,7 +2423,7 @@
           }
         ]
       },
-      "title": "10-7-2"
+      "title": "Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets)"
     },
     {
       "path": "17-19-2/data.csv",
@@ -2581,7 +2581,7 @@
           }
         ]
       },
-      "title": "9-b-1"
+      "title": "Proportion of medium and high-tech manufacturing value added in total value added (%)"
     },
     {
       "path": "17-99-1/data.csv",
@@ -2660,7 +2660,7 @@
           }
         ]
       },
-      "title": "10-c-1"
+      "title": "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%)"
     },
     {
       "path": "8-10-1/data.csv",
@@ -2693,7 +2693,7 @@
           }
         ]
       },
-      "title": "8-10-1"
+      "title": "Number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
       "path": "15-1-2/data.csv",
@@ -2851,7 +2851,7 @@
           }
         ]
       },
-      "title": "8-7-1"
+      "title": "Proportion of children engaged in economic activity, by sex and age  (%)"
     },
     {
       "path": "10-a-1/data.csv",
@@ -2873,7 +2873,7 @@
           }
         ]
       },
-      "title": "10-a-1"
+      "title": "Proportion of tariff lines applied to imports with zero-tariff (%)"
     },
     {
       "path": "14-5-1/data.csv",
@@ -2917,7 +2917,7 @@
           }
         ]
       },
-      "title": "7-3-1"
+      "title": "Energy intensity level of primary energy (megajoules per constant 2021 purchasing power parity GDP)"
     },
     {
       "path": "15-9-1/data.csv",
@@ -2973,7 +2973,7 @@
           }
         ]
       },
-      "title": "11-b-2"
+      "title": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)"
     },
     {
       "path": "4-6-1/data.csv",
@@ -3064,7 +3064,7 @@
           }
         ]
       },
-      "title": "12-1-1"
+      "title": "Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO)"
     },
     {
       "path": "1-4-2/data.csv",
@@ -3236,7 +3236,7 @@
           }
         ]
       },
-      "title": "9-99-1"
+      "title": "[Indice de synthese] Score composite ODD 9 : Industrie, innovation et infrastructure"
     },
     {
       "path": "9-5-2/data.csv",
@@ -3258,7 +3258,7 @@
           }
         ]
       },
-      "title": "9-5-2"
+      "title": "Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)"
     },
     {
       "path": "6-3-2/data.csv",
@@ -3354,7 +3354,7 @@
           }
         ]
       },
-      "title": "11-5-1"
+      "title": "Number of people affected by disaster (number)"
     },
     {
       "path": "1-5-1/data.csv",
@@ -3450,7 +3450,7 @@
           }
         ]
       },
-      "title": "8-4-2"
+      "title": "Domestic material consumption per capita, by type of raw material (tonnes)"
     },
     {
       "path": "15-a-1/data.csv",
@@ -3538,7 +3538,7 @@
           }
         ]
       },
-      "title": "7-b-1"
+      "title": "Installed renewable electricity-generating capacity (watts per capita)"
     },
     {
       "path": "15-1-1/data.csv",
@@ -3942,7 +3942,7 @@
           }
         ]
       },
-      "title": "10-4-1"
+      "title": "Labour share of GDP (%)"
     },
     {
       "path": "16-a-1/data.csv",
@@ -4111,7 +4111,7 @@
           }
         ]
       },
-      "title": "7-a-1"
+      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2023 United States dollars)"
     },
     {
       "path": "15-8-1/data.csv",
@@ -4168,7 +4168,7 @@
           }
         ]
       },
-      "title": "9-5-1"
+      "title": "Research and development expenditure as a proportion of GDP (%)"
     },
     {
       "path": "8-5-2/data.csv",
@@ -4205,7 +4205,7 @@
           }
         ]
       },
-      "title": "8-5-2"
+      "title": "Unemployment rate, by sex and age"
     },
     {
       "path": "8-a-1/data.csv",
@@ -4238,7 +4238,7 @@
           }
         ]
       },
-      "title": "8-a-1"
+      "title": "Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2024 United States dollars)"
     },
     {
       "path": "1-a-1/data.csv",
@@ -4365,7 +4365,7 @@
           }
         ]
       },
-      "title": "8-8-2"
+      "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation"
     },
     {
       "path": "6-6-1/data.csv",
@@ -4598,7 +4598,7 @@
           }
         ]
       },
-      "title": "8-b-1"
+      "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
     },
     {
       "path": "6-4-1/data.csv",
@@ -4642,7 +4642,7 @@
           }
         ]
       },
-      "title": "11-3-1"
+      "title": "Ratio of land consumption rate to population growth rate"
     },
     {
       "path": "7-1-1/data.csv",
@@ -4664,7 +4664,7 @@
           }
         ]
       },
-      "title": "7-1-1"
+      "title": "Proportion of population with access to electricity, by urban/rural (%)"
     },
     {
       "path": "2-3-1/data.csv",
@@ -4848,7 +4848,7 @@
           }
         ]
       },
-      "title": "8-3-1"
+      "title": "Proportion of informal employment, by sector and sex - 13th ICLS (%)"
     },
     {
       "path": "3-d-1/data.csv",
@@ -4925,7 +4925,7 @@
           }
         ]
       },
-      "title": "11-2-1"
+      "title": "Proportion of population that has convenient access to public transport (%)"
     },
     {
       "path": "11-6-1/data.csv",
@@ -4947,7 +4947,7 @@
           }
         ]
       },
-      "title": "11-6-1"
+      "title": "Municipal Solid Waste collection coverage, by cities (%)"
     },
     {
       "path": "17-16-1/data.csv",
@@ -5013,7 +5013,7 @@
           }
         ]
       },
-      "title": "7-2-1"
+      "title": "Renewable energy share in the total final energy consumption (%)"
     },
     {
       "path": "8-6-1/data.csv",
@@ -5035,7 +5035,7 @@
           }
         ]
       },
-      "title": "8-6-1"
+      "title": "Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%)"
     },
     {
       "path": "6-4-2/data.csv",
@@ -5079,7 +5079,7 @@
           }
         ]
       },
-      "title": "7-99-1"
+      "title": "[Indice de synthese] Score composite ODD 7 : Energie propre et abordable"
     },
     {
       "path": "15-b-1/data.csv",
@@ -5137,7 +5137,7 @@
           }
         ]
       },
-      "title": "12-4-1"
+      "title": "Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals (%)"
     },
     {
       "path": "16-8-1/data.csv",
@@ -5203,7 +5203,7 @@
           }
         ]
       },
-      "title": "8-10-2"
+      "title": "Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)"
     },
     {
       "path": "2-a-1/data.csv",
@@ -5295,7 +5295,7 @@
           }
         ]
       },
-      "title": "6-99-1"
+      "title": "[Indice de synthese] Score composite ODD 6 : Eau propre et assainissement"
     },
     {
       "path": "3-9-2/data.csv",
@@ -5339,7 +5339,7 @@
           }
         ]
       },
-      "title": "8-9-2"
+      "title": "Employed persons in the tourism industries (number)"
     },
     {
       "path": "2-1-1/data.csv",
@@ -5449,7 +5449,7 @@
           }
         ]
       },
-      "title": "11-7-1"
+      "title": "Average share of urban population with convenient access to open public spaces (%)"
     },
     {
       "path": "3-1-1/data.csv",
@@ -5669,7 +5669,7 @@
           }
         ]
       },
-      "title": "12-2-2"
+      "title": "Domestic material consumption per capita, by type of raw material (tonnes)"
     },
     {
       "path": "1-1-1/data.csv",
@@ -5769,7 +5769,7 @@
           }
         ]
       },
-      "title": "11-1-1"
+      "title": "Proportion of urban population living in slums (%)"
     },
     {
       "path": "3-9-3/data.csv",
@@ -5813,7 +5813,7 @@
           }
         ]
       },
-      "title": "8-99-1"
+      "title": "[Indice de synthese] Score composite ODD 8 : Travail decent et croissance economique"
     },
     {
       "path": "2-c-1/data.csv",
@@ -5970,7 +5970,7 @@
           }
         ]
       },
-      "title": "11-6-2"
+      "title": "Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)"
     },
     {
       "path": "9-3-2/data.csv",
@@ -5992,7 +5992,7 @@
           }
         ]
       },
-      "title": "9-3-2"
+      "title": "Proportion of small-scale industries with a loan or line of credit (%)"
     },
     {
       "path": "12-c-1/data.csv",
@@ -6118,7 +6118,7 @@
           }
         ]
       },
-      "title": "10-7-4"
+      "title": "Number of refugees per 100,000 population, by country of origin (per 100,000 population)"
     },
     {
       "path": "3-2-2/data.csv",
@@ -6173,7 +6173,7 @@
           }
         ]
       },
-      "title": "8-5-1"
+      "title": "Average hourly earnings of employees by sex and occupation (local currency)"
     },
     {
       "path": "3-9-1/data.csv",
@@ -6229,7 +6229,7 @@
           }
         ]
       },
-      "title": "9-2-2"
+      "title": "Manufacturing employment as a proportion of total employment - 13th ICLS (%)"
     },
     {
       "path": "3-7-1/data.csv",
@@ -6273,7 +6273,7 @@
           }
         ]
       },
-      "title": "10-b-1"
+      "title": "Total assistance for development, by recipient countries (millions of current United States dollars)"
     },
     {
       "path": "2-5-2/data.csv",
@@ -6332,7 +6332,7 @@
           }
         ]
       },
-      "title": "8-2-1"
+      "title": "Annual growth rate of real GDP per employed person (%)"
     }
   ]
 }
